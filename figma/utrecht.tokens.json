@@ -1,788 +1,541 @@
-{
-  "brand": {
-    "voorbeeld": {
+"brand": {
+    "utrecht": {
       "typography": {
-        "font-size": {
+        "letter-spacing": {
+          "sm": {
+            "value": "0.8 px",
+            "type": "letterSpacing",
+            "description": "letter spacing van 0,8px"
+          },
+          "md": {
+            "value": "1 px",
+            "type": "letterSpacing",
+            "description": "letterspacing 1px"
+          },
+          "lg": {
+            "value": "3 px",
+            "type": "letterSpacing",
+            "description": "letterspacing van 3px"
+          },
+          "normal": {
+            "value": "0",
+            "type": "letterSpacing",
+            "description": "letter spacing normal. Geen extra ruimte tussen de letters."
+          }
+        },
+        "scale": {
+          "2xs": {
+            "value": "8px",
+            "type": "fontSizes",
+            "description": "Extra Extra Small font size, 2 extra Small (8px of 0.5rem)"
+          },
+          "xs": {
+            "value": "12px",
+            "type": "fontSizes",
+            "description": "Extra Small font size, Extra Small (12px of 0.75rem)"
+          },
           "sm": {
             "value": "14px",
-            "type": "fontSizes"
+            "type": "fontSizes",
+            "description": "Small font size, Small (14px of 0.875rem)"
           },
           "md": {
             "value": "16px",
-            "type": "fontSizes"
+            "type": "fontSizes",
+            "description": "Standaard grootte voor paragrafen. Medium font size, Medium (16px of 1rem)"
           },
           "lg": {
-            "value": "20px",
-            "type": "fontSizes"
+            "value": "18px",
+            "type": "fontSizes",
+            "description": "Large font size, Large (18px of 1.125rem)"
           },
           "xl": {
-            "value": "24px",
-            "type": "fontSizes"
+            "value": "20px",
+            "type": "fontSizes",
+            "description": "Extra Large font size, Extra Large (20px of 1.25rem)"
           },
           "2xl": {
-            "value": "32px",
-            "type": "fontSizes"
+            "value": "22px",
+            "type": "fontSizes",
+            "description": "Extra Extra Large font size, 2 Extra Large (22px of 1.375rem)"
           },
           "3xl": {
-            "value": "40px",
-            "type": "fontSizes"
+            "value": "24px",
+            "type": "fontSizes",
+            "description": "Extra Extra Extra Large font size, 3 Extra Large (24px of 1.5rem)"
           },
           "4xl": {
-            "value": "48px",
-            "type": "fontSizes"
+            "value": "32px",
+            "type": "fontSizes",
+            "description": "Extra Extra Extra Extra Large font size, 4 Extra Large (32px of 2rem)"
           }
         },
         "line-height": {
           "xs": {
             "value": "100%",
-            "type": "lineHeights"
+            "type": "lineHeights",
+            "description": "line height factor 1 / 100%, thight"
           },
           "sm": {
             "value": "125%",
-            "type": "lineHeights"
+            "type": "lineHeights",
+            "description": "line height factor 1,22 / 125%, close to normal"
           },
           "md": {
             "value": "150%",
-            "type": "lineHeights"
+            "type": "lineHeights",
+            "description": "line height factor 1,5 / 150%, Default paragraph line-height"
           },
           "lg": {
             "value": "200%",
-            "type": "lineHeights"
+            "type": "lineHeights",
+            "description": "line height factor 2 / 200%, looser"
           }
         },
-        "font-weight": {
-          "normal": {
-            "value": "Regular",
-            "type": "fontWeights"
-          },
+        "weight-scale": {
           "bold": {
-            "value": "Bold",
-            "type": "fontWeights"
+            "value": "bold",
+            "type": "fontWeights",
+            "description": "Vetgedrukt"
+          },
+          "normal": {
+            "value": "regular",
+            "type": "fontWeights",
+            "description": "Normale tekst"
           }
         },
-        "font-family": {
-          "primary": {
-            "value": "Source Serif Pro, Tahoma, Verdana, sans-serif",
-            "type": "fontFamilies"
-          },
-          "secondary": {
-            "value": "Fira Sans, Tahoma, Verdana, sans-serif",
-            "type": "fontFamilies"
+        "sans-serif": {
+          "font-family": {
+            "value": "Lucida Grande, Lucida Sans Unicode, Lucida Sans",
+            "type": "fontFamilies",
+            "description": "Font voor alle componenten."
           }
         }
       },
       "color": {
-        "white": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "black": {
-          "value": "#000000",
-          "type": "color"
-        },
-        "violet": {
-          "50": {
-            "value": "#f8f5ff",
+        "neutral": {
+          "black": {
+            "value": "hsl(0, 0%, 0%)",
+            "description": "basis zwart",
             "type": "color"
           },
-          "100": {
-            "value": "#f0ebff",
-            "type": "color"
-          },
-          "200": {
-            "value": "#dbcdff",
-            "type": "color"
-          },
-          "300": {
-            "value": "#c6b0ff",
-            "type": "color"
-          },
-          "400": {
-            "value": "#b092ff",
-            "type": "color"
-          },
-          "500": {
-            "value": "#966eff",
-            "type": "color"
-          },
-          "600": {
-            "value": "#743fff",
-            "type": "color"
-          },
-          "700": {
-            "value": "#5616ff",
-            "type": "color"
-          },
-          "800": {
-            "value": "#4a13db",
-            "type": "color"
-          },
-          "900": {
-            "value": "#3b0faf",
-            "type": "color"
-          },
-          "950": {
-            "value": "#210963",
-            "type": "color"
-          }
-        },
-        "gray": {
-          "50": {
-            "value": "#f5f6f8",
-            "type": "color"
-          },
-          "100": {
-            "value": "#ebeef1",
-            "type": "color"
-          },
-          "200": {
-            "value": "#cfd5dd",
-            "type": "color"
-          },
-          "300": {
-            "value": "#b4bdc9",
-            "type": "color"
-          },
-          "400": {
-            "value": "#99a5b6",
-            "type": "color"
-          },
-          "500": {
-            "value": "#7a8aa0",
-            "type": "color"
-          },
-          "600": {
-            "value": "#586c88",
-            "type": "color"
-          },
-          "700": {
-            "value": "#435979",
-            "type": "color"
-          },
-          "800": {
-            "value": "#344c6e",
-            "type": "color"
-          },
-          "900": {
-            "value": "#223c61",
-            "type": "color"
-          },
-          "950": {
-            "value": "#001e49",
-            "type": "color"
-          }
-        },
-        "pink": {
-          "50": {
-            "value": "#fcf4f8",
-            "type": "color"
-          },
-          "100": {
-            "value": "#fae9f1",
-            "type": "color"
-          },
-          "200": {
-            "value": "#f2c9dc",
-            "type": "color"
-          },
-          "300": {
-            "value": "#eaaac7",
-            "type": "color"
-          },
-          "400": {
-            "value": "#e289b1",
-            "type": "color"
-          },
-          "500": {
-            "value": "#d85e95",
-            "type": "color"
-          },
-          "600": {
-            "value": "#c9216c",
-            "type": "color"
-          },
-          "700": {
-            "value": "#ac0f55",
-            "type": "color"
-          },
-          "800": {
-            "value": "#930d49",
-            "type": "color"
-          },
-          "900": {
-            "value": "#760a3b",
-            "type": "color"
-          },
-          "950": {
-            "value": "#420621",
+          "white": {
+            "value": "hsl(0, 0%, 100%)",
+            "description": "basis wit",
             "type": "color"
           }
         },
         "red": {
-          "50": {
-            "value": "#fff4f4",
-            "type": "color"
+          "20": {
+            "value": "hsl(0, 100%, 20%)",
+            "type": "color",
+            "description": "donker rood"
           },
-          "100": {
-            "value": "#fee9ea",
-            "type": "color"
+          "30": {
+            "value": "hsl(0, 100%, 30%)",
+            "type": "color",
+            "description": "hover rood"
           },
-          "200": {
-            "value": "#fdc7ca",
-            "type": "color"
+          "40": {
+            "value": "hsl(0, 100%, 40%)",
+            "type": "color",
+            "description": "basis rood #cc0000"
           },
-          "300": {
-            "value": "#fba5a9",
-            "type": "color"
-          },
-          "400": {
-            "value": "#fa7f85",
-            "type": "color"
-          },
-          "500": {
-            "value": "#f7464e",
-            "type": "color"
-          },
-          "600": {
-            "value": "#cd262d",
-            "type": "color"
-          },
-          "700": {
-            "value": "#ab1f25",
-            "type": "color"
-          },
-          "800": {
-            "value": "#95112d",
-            "type": "color"
-          },
-          "900": {
-            "value": "#770e25",
-            "type": "color"
-          },
-          "950": {
-            "value": "#410c0e",
-            "type": "color"
-          }
-        },
-        "orange": {
-          "50": {
-            "value": "#fff5ed",
-            "type": "color"
-          },
-          "100": {
-            "value": "#ffead9",
-            "type": "color"
-          },
-          "200": {
-            "value": "#ffcaa1",
-            "type": "color"
-          },
-          "300": {
-            "value": "#ffa865",
-            "type": "color"
-          },
-          "400": {
-            "value": "#ff8120",
-            "type": "color"
-          },
-          "500": {
-            "value": "#da6c18",
-            "type": "color"
-          },
-          "600": {
-            "value": "#a75312",
-            "type": "color"
-          },
-          "700": {
-            "value": "#8b450f",
-            "type": "color"
-          },
-          "800": {
-            "value": "#763b0d",
-            "type": "color"
-          },
-          "900": {
-            "value": "#5e2f0a",
-            "type": "color"
-          },
-          "950": {
-            "value": "#331906",
-            "type": "color"
-          }
-        },
-        "yellow": {
-          "50": {
-            "value": "#fff7cf",
-            "type": "color"
-          },
-          "100": {
-            "value": "#ffef99",
-            "type": "color"
-          },
-          "200": {
-            "value": "#f9d100",
-            "type": "color"
-          },
-          "300": {
-            "value": "#ddb900",
-            "type": "color"
-          },
-          "400": {
-            "value": "#c1a200",
-            "type": "color"
-          },
-          "500": {
-            "value": "#a08700",
-            "type": "color"
-          },
-          "600": {
-            "value": "#7d6900",
-            "type": "color"
-          },
-          "700": {
-            "value": "#685700",
-            "type": "color"
-          },
-          "800": {
-            "value": "#584a00",
-            "type": "color"
-          },
-          "900": {
-            "value": "#463b00",
-            "type": "color"
-          },
-          "950": {
-            "value": "#251f00",
-            "type": "color"
-          }
-        },
-        "green": {
-          "50": {
-            "value": "#ebfaef",
-            "type": "color"
-          },
-          "100": {
-            "value": "#d5f5de",
-            "type": "color"
-          },
-          "200": {
-            "value": "#94e6ab",
-            "type": "color"
-          },
-          "300": {
-            "value": "#4ad571",
-            "type": "color"
-          },
-          "400": {
-            "value": "#20bd4c",
-            "type": "color"
-          },
-          "500": {
-            "value": "#1b9d3f",
-            "type": "color"
-          },
-          "600": {
-            "value": "#157b31",
-            "type": "color"
-          },
-          "700": {
-            "value": "#116629",
-            "type": "color"
-          },
-          "800": {
-            "value": "#0f5723",
-            "type": "color"
-          },
-          "900": {
-            "value": "#0c451c",
-            "type": "color"
-          },
-          "950": {
-            "value": "#06250f",
-            "type": "color"
-          }
-        },
-        "sea-green": {
-          "50": {
-            "value": "#ebf9f8",
-            "type": "color"
-          },
-          "100": {
-            "value": "#d7f3f0",
-            "type": "color"
-          },
-          "200": {
-            "value": "#99e2d8",
-            "type": "color"
-          },
-          "300": {
-            "value": "#56cfbf",
-            "type": "color"
-          },
-          "400": {
-            "value": "#09b9a1",
-            "type": "color"
-          },
-          "500": {
-            "value": "#009a85",
-            "type": "color"
-          },
-          "600": {
-            "value": "#007869",
-            "type": "color"
-          },
-          "700": {
-            "value": "#006457",
-            "type": "color"
-          },
-          "800": {
-            "value": "#00554a",
-            "type": "color"
-          },
-          "900": {
-            "value": "#00433b",
-            "type": "color"
-          },
-          "950": {
-            "value": "#002520",
+          "95": {
+            "value": "hsl(0, 100%, 95%)",
+            "description": "Licht rood #ffcccc",
             "type": "color"
           }
         },
         "blue": {
+          "20": {
+            "value": "hsl(211, 60%, 20%)",
+            "type": "color",
+            "description": "basis donkerblauw (OS focus)"
+          },
+          "35": {
+            "value": "hsl(211, 60%, 35%)",
+            "description": "basis link en knoppen CTA donkerblauw",
+            "type": "color"
+          },
+          "40": {
+            "value": "hsl(211, 60%, 40%)",
+            "description": "blauw variant bij hover/focus #3669a5",
+            "type": "color"
+          },
+          "60": {
+            "value": "hsl(211, 60%, 60%)",
+            "type": "color",
+            "description": "licht blauw links en buttons in DrakMode"
+          },
+          "80": {
+            "value": "hsl(211, 60%, 80%)",
+            "description": "licht blauw voor achtergrond",
+            "type": "color"
+          },
+          "90": {
+            "value": "hsl(211, 60%, 90%)",
+            "description": "ijsblauw variant achtergrond, spotlight en uitgelicht",
+            "type": "color"
+          }
+        },
+        "grey": {
+          "10": {
+            "value": "hsl(0, 0%, 10%)",
+            "description": "Background donkergrijs",
+            "type": "color"
+          },
+          "15": {
+            "value": "hsl(0, 0%, 15%)",
+            "description": "Background grijs",
+            "type": "color"
+          },
+          "20": {
+            "value": "hsl(0, 0%, 20%)",
+            "description": "Hover grijs",
+            "type": "color"
+          },
+          "30": {
+            "value": "hsl(0, 0%, 30%)",
+            "description": "order grijs #888",
+            "type": "color"
+          },
+          "40": {
+            "value": "hsl(0, 0%, 40%)",
+            "description": "basis grijs #727272",
+            "type": "color"
+          },
+          "80": {
+            "value": "hsl(0, 0%, 80%)",
+            "description": "grijs variant voor achtergrond content #e5e5e5",
+            "type": "color"
+          },
+          "90": {
+            "value": "hsl(0, 0%, 90%)",
+            "description": "grijs variant voor achtergrond templates #e6e6e6",
+            "type": "color"
+          },
+          "95": {
+            "value": "hsl(0, 0%, 95%)",
+            "description": "grijs variant voor achtergrond templates #f2f2f2",
+            "type": "color"
+          }
+        },
+        "yellow": {
+          "20": {
+            "value": "hsl(48, 100%, 20%)",
+            "type": "color",
+            "description": "donker geel voor darkmode"
+          },
+          "40": {
+            "value": "hsl(48, 100%, 40%)",
+            "description": "donker geel",
+            "type": "color"
+          },
           "50": {
-            "value": "#eef8fe",
+            "value": "hsl(48, 100%, 50%)",
+            "description": "basis geel #ffcc00",
             "type": "color"
           },
-          "100": {
-            "value": "#ddf0fc",
+          "60": {
+            "value": "hsl(48, 100%, 60%)",
+            "description": "selecteer geel",
             "type": "color"
           },
-          "200": {
-            "value": "#abdbf8",
-            "type": "color"
-          },
-          "300": {
-            "value": "#78c5f4",
-            "type": "color"
-          },
-          "400": {
-            "value": "#40adef",
-            "type": "color"
-          },
-          "500": {
-            "value": "#008de4",
-            "type": "color"
-          },
-          "600": {
-            "value": "#006fb3",
-            "type": "color"
-          },
-          "700": {
-            "value": "#005c94",
-            "type": "color"
-          },
-          "800": {
-            "value": "#004e7e",
-            "type": "color"
-          },
-          "900": {
-            "value": "#003e64",
-            "type": "color"
-          },
-          "950": {
-            "value": "#002237",
+          "80": {
+            "value": "hsl(48, 100%, 80%)",
+            "description": "spotlight en uitgelicht",
             "type": "color"
           }
         },
-        "light": {
-          "alpha": {
-            "50": {
-              "value": "#ffffff0d",
-              "type": "color"
-            },
-            "100": {
-              "value": "#ffffff1a",
-              "type": "color"
-            }
+        "fresh-green": {
+          "30": {
+            "value": "hsl(119, 80%, 30%)",
+            "type": "color",
+            "description": "tijdlijn fris groen #118A0F"
           }
         },
-        "dark": {
-          "alpha": {
-            "50": {
-              "value": "#0000000d",
-              "type": "color"
-            },
-            "100": {
-              "value": "#0000001a",
-              "type": "color"
-            }
+        "green": {
+          "30": {
+            "value": "hsl(90, 30%, 30%)",
+            "description": "Donker groen voor darkmode",
+            "type": "color"
+          },
+          "40": {
+            "value": "hsl(90, 30%, 40%)",
+            "description": "Donker groen",
+            "type": "color"
+          },
+          "50": {
+            "value": "hsl(90, 30%, 50%)",
+            "description": "Button groen",
+            "type": "color"
+          },
+          "80": {
+            "value": "hsl(90, 30%, 80%)",
+            "description": "Achtergrond groen",
+            "type": "color"
+          },
+          "90": {
+            "value": "hsl(90, 30%, 90%)",
+            "description": "Achtergrond groen",
+            "type": "color"
           }
         }
       },
       "space": {
         "inline": {
-          "flea": {
+          "3xs": {
             "value": "2px",
             "type": "spacing"
           },
-          "ant": {
+          "2xs": {
             "value": "4px",
             "type": "spacing"
           },
-          "beetle": {
+          "xs": {
             "value": "8px",
             "type": "spacing"
           },
-          "snail": {
+          "sm": {
             "value": "12px",
             "type": "spacing"
           },
-          "mouse": {
+          "md": {
             "value": "16px",
             "type": "spacing"
           },
-          "rat": {
+          "lg": {
             "value": "20px",
             "type": "spacing"
           },
-          "rabbit": {
+          "xl": {
             "value": "24px",
             "type": "spacing"
           },
-          "cat": {
+          "2xl": {
             "value": "28px",
             "type": "spacing"
           },
-          "dog": {
+          "3xl": {
             "value": "32px",
             "type": "spacing"
           },
-          "pig": {
+          "4xl": {
             "value": "48px",
             "type": "spacing"
           }
         },
         "block": {
-          "flea": {
+          "3xs": {
             "value": "2px",
             "type": "spacing"
           },
-          "ant": {
+          "2xs": {
             "value": "4px",
             "type": "spacing"
           },
-          "beetle": {
+          "xs": {
             "value": "8px",
             "type": "spacing"
           },
-          "snail": {
+          "sm": {
             "value": "12px",
             "type": "spacing"
           },
-          "mouse": {
+          "md": {
             "value": "16px",
             "type": "spacing"
           },
-          "rat": {
+          "lg": {
             "value": "20px",
             "type": "spacing"
           },
-          "rabbit": {
+          "xl": {
             "value": "24px",
             "type": "spacing"
           },
-          "cat": {
+          "2xl": {
             "value": "32px",
             "type": "spacing"
           },
-          "dog": {
+          "3xl": {
             "value": "48px",
             "type": "spacing"
           },
-          "pig": {
+          "4xl": {
             "value": "64px",
             "type": "spacing"
           }
         },
         "text": {
-          "flea": {
-            "value": "1px",
+          "3xs": {
+            "value": "0.125em",
             "type": "spacing",
             "description": "0.125ch"
           },
-          "ant": {
+          "2xs": {
             "value": "2px",
             "type": "spacing",
             "description": "0.25ch"
           },
-          "beetle": {
+          "xs": {
             "value": "4px",
             "type": "spacing",
             "description": "0.5ch"
           },
-          "snail": {
+          "sm": {
             "value": "6px",
             "type": "spacing",
             "description": "0.75ch"
           },
-          "mouse": {
+          "md": {
             "value": "8px",
             "type": "spacing",
             "description": "1ch"
           },
-          "rat": {
+          "lg": {
             "value": "12px",
             "type": "spacing",
             "description": "1.5ch"
           },
-          "rabbit": {
+          "xl": {
             "value": "14px",
             "type": "spacing",
             "description": "1.75ch"
           },
-          "cat": {
+          "2xl": {
             "value": "16px",
             "type": "spacing",
             "description": "2ch"
           },
-          "dog": {
+          "3xl": {
             "value": "24px",
             "type": "spacing",
             "description": "3ch"
           }
         },
         "column": {
-          "flea": {
+          "4xs": {
             "value": "1px",
             "type": "spacing"
           },
-          "ant": {
+          "3xs": {
             "value": "2px",
             "type": "spacing"
           },
-          "beetle": {
+          "2xs": {
             "value": "4px",
             "type": "spacing"
           },
-          "snail": {
+          "xs": {
             "value": "8px",
             "type": "spacing"
           },
-          "mouse": {
+          "sm": {
             "value": "12px",
             "type": "spacing"
           },
-          "rat": {
+          "md": {
             "value": "16px",
             "type": "spacing"
           },
-          "rabbit": {
+          "lg": {
             "value": "20px",
             "type": "spacing"
           },
-          "cat": {
+          "xl": {
             "value": "24px",
             "type": "spacing"
           },
-          "dog": {
+          "2xl": {
             "value": "28px",
             "type": "spacing"
           },
-          "pig": {
+          "3xl": {
             "value": "32px",
             "type": "spacing"
           },
-          "tiger": {
+          "4xl": {
             "value": "48px",
             "type": "spacing"
           },
-          "horse": {
+          "5xl": {
             "value": "64px",
-            "type": "spacing"
-          },
-          "elephant": {
-            "value": "96px",
-            "type": "spacing"
-          },
-          "giraffe": {
-            "value": "160px",
             "type": "spacing"
           }
         },
         "row": {
-          "flea": {
+          "xs4": {
             "value": "1px",
             "type": "spacing"
           },
-          "ant": {
+          "3xs": {
             "value": "2px",
             "type": "spacing"
           },
-          "beetle": {
+          "2xs": {
             "value": "4px",
             "type": "spacing"
           },
-          "snail": {
+          "xs": {
             "value": "8px",
             "type": "spacing"
           },
-          "mouse": {
+          "sm": {
             "value": "12px",
             "type": "spacing"
           },
-          "rat": {
+          "md": {
             "value": "16px",
             "type": "spacing"
           },
-          "rabbit": {
+          "lg": {
             "value": "20px",
             "type": "spacing"
           },
-          "cat": {
+          "xl": {
             "value": "24px",
             "type": "spacing"
           },
-          "dog": {
+          "2xl": {
             "value": "28px",
             "type": "spacing"
           },
-          "pig": {
+          "3xl": {
             "value": "32px",
             "type": "spacing"
           },
-          "tiger": {
+          "4xl": {
             "value": "48px",
             "type": "spacing"
           },
-          "horse": {
+          "5xl": {
             "value": "64px",
-            "type": "spacing"
-          },
-          "elephant": {
-            "value": "96px",
-            "type": "spacing"
-          },
-          "giraffe": {
-            "value": "160px",
             "type": "spacing"
           }
         }
       },
       "border-radius": {
         "sm": {
+          "value": "2px",
+          "type": "borderRadius",
+          "description": "Voor maps controle buttons"
+        },
+        "md": {
           "value": "4px",
           "type": "borderRadius"
         },
-        "md": {
-          "value": "8px",
-          "type": "borderRadius"
-        },
         "lg": {
-          "value": "16px",
+          "value": "8px",
           "type": "borderRadius"
         },
         "round": {
           "value": "999px",
+          "type": "borderRadius"
+        },
+        "none": {
+          "value": "0px",
           "type": "borderRadius"
         }
       },
@@ -796,19 +549,11 @@
           "type": "borderWidth"
         },
         "lg": {
-          "value": "4px",
+          "value": "3px",
           "type": "borderWidth"
         }
       },
       "size": {
-        "5xs": {
-          "value": "2px",
-          "type": "sizing"
-        },
-        "4xs": {
-          "value": "4px",
-          "type": "sizing"
-        },
         "3xs": {
           "value": "8px",
           "type": "sizing"
@@ -840,36 +585,6 @@
         "2xl": {
           "value": "160px",
           "type": "sizing"
-        },
-        "icon": {
-          "sm": {
-            "value": "20px",
-            "type": "sizing"
-          },
-          "md": {
-            "value": "24px",
-            "type": "sizing"
-          },
-          "lg": {
-            "value": "24px",
-            "type": "sizing"
-          },
-          "xl": {
-            "value": "24px",
-            "type": "sizing"
-          },
-          "2xl": {
-            "value": "32px",
-            "type": "sizing"
-          },
-          "3xl": {
-            "value": "40px",
-            "type": "sizing"
-          },
-          "4xl": {
-            "value": "48px",
-            "type": "sizing"
-          }
         }
       },
       "box-shadow": {
@@ -879,7 +594,7 @@
             "y": "2",
             "blur": "6",
             "spread": "0",
-            "color": "{voorbeeld.color.dark.alpha.100}",
+            "color": "{utrecht.color.grey.80}",
             "type": "dropShadow"
           },
           "type": "boxShadow"
@@ -890,7 +605,7 @@
             "y": "8",
             "blur": "16",
             "spread": "0",
-            "color": "{voorbeeld.color.dark.alpha.100}",
+            "color": "{utrecht.color.grey.80}",
             "type": "dropShadow"
           },
           "type": "boxShadow"
@@ -901,10 +616,64 @@
             "y": "16",
             "blur": "48",
             "spread": "0",
-            "color": "{voorbeeld.color.dark.alpha.100}",
+            "color": "{utrecht.color.grey.80}",
             "type": "dropShadow"
           },
           "type": "boxShadow"
+        }
+      },
+      "icon-scale": {
+        "3sx": {
+          "value": "1px",
+          "type": "sizing"
+        },
+        "2sx": {
+          "value": "4px",
+          "type": "sizing"
+        },
+        "sx": {
+          "value": "8px",
+          "type": "sizing"
+        },
+        "sm": {
+          "value": "12px",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "16px",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "24px",
+          "type": "sizing"
+        },
+        "xl": {
+          "value": "26px",
+          "type": "sizing"
+        },
+        "2xl": {
+          "value": "30px",
+          "type": "sizing"
+        },
+        "3xl": {
+          "value": "36px",
+          "type": "sizing"
+        },
+        "4xl": {
+          "value": "48px",
+          "type": "sizing"
+        }
+      },
+      "border-style": {
+        "dotted": {
+          "value": "dotted",
+          "type": "other",
+          "description": "Focus border style"
+        },
+        "solid": {
+          "value": "solid",
+          "type": "other",
+          "description": "Solid border style"
         }
       }
     }
