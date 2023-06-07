@@ -741,16 +741,16 @@
           "type": "fontFamilies"
         },
         "font-size": {
-          "value": "{utrecht.typography.font-size.md}",
+          "value": "{utrecht.typography.scale.md}",
           "type": "fontSizes"
         },
         "font-weight": {
-          "value": "{utrecht.typography.font-weight.normal}",
+          "value": "{utrecht.typography.weight-scale.normal}",
           "type": "fontWeights"
         },
         "strong": {
           "font-weight": {
-            "value": "{utrecht.typography.font-weight.bold}",
+            "value": "{utrecht.typography.weight-scale.bold}",
             "type": "fontWeights"
           }
         },
@@ -769,7 +769,7 @@
           "type": "fontFamilies"
         },
         "font-weight": {
-          "value": "{utrecht.typography.font-weight.bold}",
+          "value": "{utrecht.typography.weight-scale.bold}",
           "type": "fontWeights"
         }
       },
@@ -870,11 +870,11 @@
             "type": "color"
           },
           "background-color": {
-            "value": "{utrecht.color.grey.100}",
+            "value": "{utrecht.color.grey.40}",
             "type": "color"
           },
           "border-color": {
-            "value": "{utrecht.color.grey.500}",
+            "value": "{utrecht.color.grey.40}",
             "type": "color"
           },
           "border-width": {
@@ -882,35 +882,35 @@
             "type": "borderWidth"
           },
           "color": {
-            "value": "{utrecht.color.grey.950}",
+            "value": "{utrecht.color.grey.40}",
             "type": "color"
           }
         },
         "disabled": {
           "accent-color": {
-            "value": "{utrecht.color.grey.500}",
+            "value": "{utrecht.color.grey.80}",
             "type": "color"
           },
           "background-color": {
-            "value": "{utrecht.color.grey.50}",
+            "value": "{utrecht.color.grey.90}",
             "type": "color"
           },
           "border-color": {
-            "value": "{utrecht.color.grey.500}",
+            "value": "{utrecht.color.grey.40}",
             "type": "color"
           },
           "color": {
-            "value": "{utrecht.color.grey.500}",
+            "value": "{utrecht.color.grey.40}",
             "type": "color"
           }
         },
         "focus": {
           "background-color": {
-            "value": "{utrecht.color.white}",
+            "value": "{utrecht.color.neutral.white}",
             "type": "color"
           },
           "border-color": {
-            "value": "{utrecht.color.black}",
+            "value": "{utrecht.color.neutral.black}",
             "type": "color"
           },
           "border-width": {
@@ -918,7 +918,7 @@
             "type": "borderWidth"
           },
           "color": {
-            "value": "{utrecht.color.black}",
+            "value": "{utrecht.color.neutral.black}",
             "type": "color"
           }
         },
@@ -928,11 +928,11 @@
             "type": "color"
           },
           "background-color": {
-            "value": "{utrecht.color.grey.50}",
+            "value": "{utrecht.color.grey.40}",
             "type": "color"
           },
           "border-color": {
-            "value": "{utrecht.color.grey.500}",
+            "value": "{utrecht.color.grey.40}",
             "type": "color"
           },
           "border-width": {
@@ -940,7 +940,7 @@
             "type": "borderWidth"
           },
           "color": {
-            "value": "{utrecht.color.grey.950}",
+            "value": "{utrecht.color.grey.90}",
             "type": "color"
           }
         },
@@ -964,7 +964,7 @@
         },
         "read-only": {
           "background-color": {
-            "value": "{utrecht.color.grey.50}",
+            "value": "{utrecht.color.grey.80}",
             "type": "color"
           },
           "border-color": {
@@ -972,13 +972,13 @@
             "type": "color"
           },
           "color": {
-            "value": "{utrecht.color.grey.950}",
+            "value": "{utrecht.color.grey.40}",
             "type": "color"
           }
         },
         "placeholder": {
           "color": {
-            "value": "{utrecht.color.grey.500}",
+            "value": "{utrecht.color.grey.40}",
             "type": "color"
           }
         }
@@ -1020,7 +1020,7 @@
         },
         "negative": {
           "background-color": {
-            "value": "{utrecht.color.neutral.white}",
+            "value": "{utrecht.color.red.95}",
             "type": "color"
           },
           "border-color": {
