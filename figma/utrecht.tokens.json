@@ -1272,7 +1272,7 @@
           "active": {
             "background-color": {
               "type": "color",
-              "value": "{utrecht.color.gray.200}"
+              "value": "{utrecht.color.grey.80}"
             },
             "border-color": {
               "value": "transparent",
