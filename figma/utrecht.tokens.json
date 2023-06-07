@@ -2503,7 +2503,7 @@
       },
       "form-field-checkbox-option": {
         "column-gap": {
-          "value": "{utrecht.space.column.snail}",
+          "value": "{utrecht.space.column.xs}",
           "type": "spacing"
         }
       },
