@@ -1089,7 +1089,7 @@
           "type": "color"
         },
         "color": {
-          "value": "{utrecht.color.white}",
+          "value": "{utrecht.color.neutral.white}",
           "type": "color"
         },
         "text": {
@@ -1128,7 +1128,7 @@
             "type": "color"
           },
           "color": {
-            "value": "{utrecht.color.white}",
+            "value": "{utrecht.color.neutral.white}",
             "type": "color"
           }
         }
@@ -1164,19 +1164,19 @@
             "value": "{utrecht.border-width.sm}"
           },
           "padding-block-end": {
-            "value": "{utrecht.space.block.rabbit}",
+            "value": "{utrecht.space.block.md}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.rabbit}",
+            "value": "{utrecht.space.block.md}",
             "type": "spacing"
           },
           "padding-inline-end": {
-            "value": "{utrecht.space.inline.mouse}",
+            "value": "{utrecht.space.inline.sm}",
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{utrecht.space.inline.mouse}",
+            "value": "{utrecht.space.inline.sm}",
             "type": "spacing"
           }
         },
@@ -1191,7 +1191,7 @@
           },
           "icon": {
             "margin-inline": {
-              "value": "{utrecht.space.inline.beetle}",
+              "value": "{utrecht.space.inline.xs}",
               "type": "spacing"
             },
             "size": {
@@ -1200,19 +1200,19 @@
             }
           },
           "padding-block-end": {
-            "value": "{utrecht.space.block.snail}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.snail}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "padding-inline-end": {
-            "value": "{utrecht.space.inline.mouse}",
+            "value": "{utrecht.space.inline.sm}",
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{utrecht.space.inline.mouse}",
+            "value": "{utrecht.space.inline.sm}",
             "type": "spacing"
           },
           "hover": {
@@ -1325,19 +1325,19 @@
           "type": "borderWidth"
         },
         "padding-block-end": {
-          "value": "{utrecht.space.block.snail}",
+          "value": "{utrecht.space.block.2xs}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{utrecht.space.block.snail}",
+          "value": "{utrecht.space.block.2xs}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{utrecht.space.inline.snail}",
+          "value": "{utrecht.space.inline.sm}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{utrecht.space.inline.snail}",
+          "value": "{utrecht.space.inline.sm}",
           "type": "spacing"
         },
         "informative": {
@@ -1362,11 +1362,11 @@
             }
           },
           "padding-block-end": {
-            "value": "{utrecht.space.block.snail}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.snail}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "padding-inline-end": {
@@ -1374,7 +1374,7 @@
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{utrecht.space.inline.ant}",
+            "value": "{utrecht.space.inline.2xs}",
             "type": "spacing"
           },
           "positive": {
@@ -1444,15 +1444,15 @@
         },
         "message": {
           "row-gap": {
-            "value": "{utrecht.space.column.snail}",
+            "value": "{utrecht.space.column.xs}",
             "type": "spacing"
           },
           "padding-block-end": {
-            "value": "{utrecht.space.block.snail}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.beetle}",
+            "value": "{utrecht.space.block.xs}",
             "type": "spacing"
           }
         }
@@ -1476,7 +1476,7 @@
             "type": "fontWeights"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.snail}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "color": {
@@ -1507,11 +1507,11 @@
           }
         },
         "padding-block-end": {
-          "value": "{utrecht.space.block.snail}",
+          "value": "{utrecht.space.block.2xs}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{utrecht.space.block.snail}",
+          "value": "{utrecht.space.block.2xs}",
           "type": "spacing"
         },
         "padding-inline-end": {
@@ -1543,16 +1543,16 @@
               "value": "{utrecht.icon.functional.size}"
             },
             "margin-inline": {
-              "value": "{utrecht.space.inline.beetle}",
+              "value": "{utrecht.space.inline.xs}",
               "type": "spacing"
             }
           },
           "padding-block-end": {
-            "value": "{utrecht.space.block.snail}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.snail}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "padding-inline-end": {
@@ -1623,7 +1623,7 @@
           }
         },
         "margin-inline": {
-          "value": "{utrecht.space.inline.beetle}",
+          "value": "{utrecht.space.inline.xs}",
           "type": "spacing"
         },
         "font-family": {
@@ -1810,7 +1810,7 @@
             "value": "{utrecht.icon.functional.size}"
           },
           "margin-inline": {
-            "value": "{utrecht.space.inline.beetle}",
+            "value": "{utrecht.space.inline.xs}",
             "type": "spacing"
           }
         },
@@ -1905,19 +1905,19 @@
           "type": "lineHeights"
         },
         "padding-block-end": {
-          "value": "{utrecht.space.block.snail}",
+          "value": "{utrecht.space.block.2xs}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{utrecht.space.block.snail}",
+          "value": "{utrecht.space.block.2xs}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{utrecht.space.inline.mouse}",
+          "value": "{utrecht.space.inline.sm}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{utrecht.space.inline.mouse}",
+          "value": "{utrecht.space.inline.sm}",
           "type": "spacing"
         },
         "disabled": {
@@ -2253,15 +2253,15 @@
       },
       "checkbox-group": {
         "padding-block-end": {
-          "value": "{utrecht.space.block.beetle}",
+          "value": "{utrecht.space.block.xs}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{utrecht.space.block.beetle}",
+          "value": "{utrecht.space.block.xs}",
           "type": "spacing"
         },
         "row-gap": {
-          "value": "{utrecht.space.row.rat}",
+          "value": "{utrecht.space.row.xs}",
           "type": "spacing"
         }
       },
@@ -2311,11 +2311,11 @@
           "value": "{utrecht.document.color}"
         },
         "padding-inline": {
-          "value": "{utrecht.space.inline.ant}",
+          "value": "{utrecht.space.inline.2xs}",
           "type": "spacing"
         },
         "padding-block": {
-          "value": "{utrecht.space.block.ant}",
+          "value": "{utrecht.space.block.xs}",
           "type": "spacing"
         }
       },
@@ -2331,36 +2331,36 @@
           },
           "row": {
             "padding-block-end": {
-              "value": "{utrecht.space.block.snail}",
+              "value": "{utrecht.space.block.2xs}",
               "type": "spacing"
             },
             "padding-block-start": {
-              "value": "{utrecht.space.block.snail}",
+              "value": "{utrecht.space.block.2xs}",
               "type": "spacing"
             },
             "padding-inline-end": {
-              "value": "{utrecht.space.inline.snail}",
+              "value": "{utrecht.space.inline.sm}",
               "type": "spacing"
             },
             "padding-inline-start": {
-              "value": "{utrecht.space.inline.snail}",
+              "value": "{utrecht.space.inline.sm}",
               "type": "spacing"
             }
           },
           "padding-block-end": {
-            "value": "{utrecht.space.block.snail}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.ant}",
+            "value": "{utrecht.space.block.xs}",
             "type": "spacing"
           },
           "padding-inline-end": {
-            "value": "{utrecht.space.inline.snail}",
+            "value": "{utrecht.space.inline.sm}",
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{utrecht.space.inline.snail}",
+            "value": "{utrecht.space.inline.sm}",
             "type": "spacing"
           }
         },
@@ -2371,36 +2371,36 @@
           },
           "row": {
             "padding-block-end": {
-              "value": "{utrecht.space.block.snail}",
+              "value": "{utrecht.space.block.2xs}",
               "type": "spacing"
             },
             "padding-block-start": {
-              "value": "{utrecht.space.block.snail}",
+              "value": "{utrecht.space.block.2xs}",
               "type": "spacing"
             },
             "padding-inline-end": {
-              "value": "{utrecht.space.inline.snail}",
+              "value": "{utrecht.space.inline.sm}",
               "type": "spacing"
             },
             "padding-inline-start": {
-              "value": "{utrecht.space.inline.snail}",
+              "value": "{utrecht.space.inline.sm}",
               "type": "spacing"
             }
           },
           "padding-block-end": {
-            "value": "{utrecht.space.block.ant}",
+            "value": "{utrecht.space.block.xs}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.snail}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "padding-inline-end": {
-            "value": "{utrecht.space.inline.snail}",
+            "value": "{utrecht.space.inline.sm}",
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{utrecht.space.inline.snail}",
+            "value": "{utrecht.space.inline.sm}",
             "type": "spacing"
           }
         },
@@ -2429,36 +2429,36 @@
         "item-action": {
           "row": {
             "padding-block-end": {
-              "value": "{utrecht.space.block.snail}",
+              "value": "{utrecht.space.block.2xs}",
               "type": "spacing"
             },
             "padding-block-start": {
-              "value": "{utrecht.space.block.snail}",
+              "value": "{utrecht.space.block.2xs}",
               "type": "spacing"
             },
             "padding-inline-end": {
-              "value": "{utrecht.space.inline.snail}",
+              "value": "{utrecht.space.inline.sm}",
               "type": "spacing"
             },
             "padding-inline-start": {
-              "value": "{utrecht.space.inline.snail}",
+              "value": "{utrecht.space.inline.sm}",
               "type": "spacing"
             }
           },
           "padding-block-end": {
-            "value": "{utrecht.space.block.snail}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.snail}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "padding-inline-end": {
-            "value": "{utrecht.space.inline.snail}",
+            "value": "{utrecht.space.inline.sm}",
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{utrecht.space.inline.snail}",
+            "value": "{utrecht.space.inline.sm}",
             "type": "spacing"
           }
         }
@@ -2474,7 +2474,7 @@
             "type": "borderWidth"
           },
           "padding-inline-start": {
-            "value": "{utrecht.space.inline.mouse}",
+            "value": "{utrecht.space.inline.sm}",
             "type": "spacing"
           }
         }
@@ -2514,7 +2514,7 @@
             "value": "{utrecht.icon.functional.size}"
           },
           "margin-inline-end": {
-            "value": "{utrecht.space.inline.beetle}",
+            "value": "{utrecht.space.inline.xs}",
             "type": "spacing"
           }
         },
@@ -2798,7 +2798,7 @@
             "value": "{utrecht.icon.functional.size}"
           },
           "margin-inline": {
-            "value": "{utrecht.space.inline.ant}",
+            "value": "{utrecht.space.inline.2xs}",
             "type": "spacing"
           }
         },
@@ -2825,7 +2825,7 @@
       },
       "ordered-list": {
         "padding-inline-start": {
-          "value": "{utrecht.space.inline.rabbit}",
+          "value": "{utrecht.space.inline.lg}",
           "type": "spacing"
         },
         "color": {
@@ -2850,11 +2850,11 @@
         },
         "item": {
           "margin-block-end": {
-            "value": "{utrecht.space.block.ant}",
+            "value": "{utrecht.space.block.xs}",
             "type": "spacing"
           },
           "margin-block-start": {
-            "value": "{utrecht.space.block.ant}",
+            "value": "{utrecht.space.block.xs}",
             "type": "spacing"
           }
         }
@@ -2867,7 +2867,7 @@
           },
           "icon": {
             "margin-inline": {
-              "value": "{utrecht.space.inline.ant}",
+              "value": "{utrecht.space.inline.2xs}",
               "type": "spacing"
             },
             "size": {
@@ -2876,11 +2876,11 @@
             }
           },
           "padding-block-end": {
-            "value": "{utrecht.space.block.snail}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.snail}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "padding-inline-end": {
@@ -2975,13 +2975,13 @@
           },
           "previous": {
             "padding-inline-end": {
-              "value": "{utrecht.space.inline.ant}",
+              "value": "{utrecht.space.inline.2xs}",
               "type": "spacing"
             }
           },
           "next": {
             "padding-inline-start": {
-              "value": "{utrecht.space.inline.ant}",
+              "value": "{utrecht.space.inline.2xs}",
               "type": "spacing"
             }
           }
@@ -3022,19 +3022,19 @@
             "type": "borderRadius"
           },
           "padding-block-end": {
-            "value": "{utrecht.space.block.snail}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.snail}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "padding-inline-end": {
-            "value": "{utrecht.space.inline.snail}",
+            "value": "{utrecht.space.inline.sm}",
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{utrecht.space.inline.snail}",
+            "value": "{utrecht.space.inline.sm}",
             "type": "spacing"
           },
           "focus": {
@@ -3113,7 +3113,7 @@
           }
         },
         "gap": {
-          "value": "{utrecht.space.inline.ant}",
+          "value": "{utrecht.space.inline.2xs}",
           "type": "spacing"
         },
         "font-family": {
@@ -3130,11 +3130,11 @@
         },
         "ellipses": {
           "padding-block-end": {
-            "value": "{utrecht.space.block.snail}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.snail}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "padding-inline-end": {
@@ -3403,15 +3403,15 @@
       },
       "radio-group": {
         "padding-block-end": {
-          "value": "{utrecht.space.block.beetle}",
+          "value": "{utrecht.space.block.xs}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{utrecht.space.block.beetle}",
+          "value": "{utrecht.space.block.xs}",
           "type": "spacing"
         },
         "row-gap": {
-          "value": "{utrecht.space.row.rat}",
+          "value": "{utrecht.space.row.xs}",
           "type": "spacing"
         }
       },
@@ -3503,19 +3503,19 @@
           }
         },
         "padding-block-end": {
-          "value": "{utrecht.space.block.snail}",
+          "value": "{utrecht.space.block.2xs}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{utrecht.space.block.snail}",
+          "value": "{utrecht.space.block.2xs}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{utrecht.space.inline.snail}",
+          "value": "{utrecht.space.inline.sm}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{utrecht.space.inline.snail}",
+          "value": "{utrecht.space.inline.sm}",
           "type": "spacing"
         },
         "border-radius": {
@@ -3561,11 +3561,11 @@
           "type": "sizing"
         },
         "padding-block-end": {
-          "value": "{utrecht.space.block.snail}",
+          "value": "{utrecht.space.block.2xs}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{utrecht.space.block.snail}",
+          "value": "{utrecht.space.block.2xs}",
           "type": "spacing"
         }
       },
@@ -3595,19 +3595,19 @@
           "value": "{utrecht.pointer-target.min-size}"
         },
         "padding-block-end": {
-          "value": "{utrecht.space.block.snail}",
+          "value": "{utrecht.space.block.2xs}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{utrecht.space.block.snail}",
+          "value": "{utrecht.space.block.2xs}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{utrecht.space.inline.mouse}",
+          "value": "{utrecht.space.inline.sm}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{utrecht.space.inline.mouse}",
+          "value": "{utrecht.space.inline.sm}",
           "type": "spacing"
         },
         "focus": {
@@ -3679,7 +3679,7 @@
           "value": "{utrecht.border-radius.sm}"
         },
         "padding-inline": {
-          "value": "{utrecht.space.inline.ant}",
+          "value": "{utrecht.space.inline.2xs}",
           "type": "spacing"
         },
         "padding-block": {
@@ -3784,7 +3784,7 @@
             "type": "lineHeights"
           },
           "margin-block-end": {
-            "value": "{utrecht.space.block.rabbit}",
+            "value": "{utrecht.space.block.md}",
             "type": "spacing"
           },
           "color": {
@@ -3806,19 +3806,19 @@
         },
         "cell": {
           "padding-block-end": {
-            "value": "{utrecht.space.block.snail}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.snail}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "padding-inline-end": {
-            "value": "{utrecht.space.inline.snail}",
+            "value": "{utrecht.space.inline.sm}",
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{utrecht.space.inline.snail}",
+            "value": "{utrecht.space.inline.sm}",
             "type": "spacing"
           }
         },
@@ -3925,19 +3925,19 @@
           "type": "sizing"
         },
         "padding-block-end": {
-          "value": "{utrecht.space.block.snail}",
+          "value": "{utrecht.space.block.2xs}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{utrecht.space.block.snail}",
+          "value": "{utrecht.space.block.2xs}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{utrecht.space.inline.snail}",
+          "value": "{utrecht.space.inline.sm}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{utrecht.space.inline.snail}",
+          "value": "{utrecht.space.inline.sm}",
           "type": "spacing"
         },
         "background-color": {
@@ -4095,19 +4095,19 @@
           "type": "sizing"
         },
         "padding-block-end": {
-          "value": "{utrecht.space.block.snail}",
+          "value": "{utrecht.space.block.2xs}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{utrecht.space.block.snail}",
+          "value": "{utrecht.space.block.2xs}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{utrecht.space.inline.snail}",
+          "value": "{utrecht.space.inline.sm}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{utrecht.space.inline.snail}",
+          "value": "{utrecht.space.inline.sm}",
           "type": "spacing"
         },
         "background-color": {
@@ -4251,35 +4251,35 @@
           "type": "lineHeights"
         },
         "padding-inline-start": {
-          "value": "{utrecht.space.inline.rabbit}",
+          "value": "{utrecht.space.inline.lg}",
           "type": "spacing"
         },
         "item": {
           "margin-block-end": {
-            "value": "{utrecht.space.block.ant}",
+            "value": "{utrecht.space.block.xs}",
             "type": "spacing"
           },
           "margin-block-start": {
-            "value": "{utrecht.space.block.ant}",
+            "value": "{utrecht.space.block.xs}",
             "type": "spacing"
           }
         }
       },
       "icon-only-button": {
         "padding-block-end": {
-          "value": "{utrecht.space.block.snail}",
+          "value": "{utrecht.space.block.2xs}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{utrecht.space.block.snail}",
+          "value": "{utrecht.space.block.2xs}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{utrecht.space.inline.snail}",
+          "value": "{utrecht.space.inline.sm}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{utrecht.space.inline.snail}",
+          "value": "{utrecht.space.inline.sm}",
           "type": "spacing"
         }
       }
@@ -4297,7 +4297,7 @@
               "value": "{utrecht.icon.functional.size}"
             },
             "margin-inline": {
-              "value": "{utrecht.space.inline.beetle}",
+              "value": "{utrecht.space.inline.xs}",
               "type": "spacing"
             }
           },
@@ -4362,11 +4362,11 @@
             }
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.snail}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "padding-block-end": {
-            "value": "{utrecht.space.block.snail}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "text-decoration": {
