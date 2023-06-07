@@ -1648,7 +1648,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{utrecht.color.white}"
+              "value": "{utrecht.color.neutral.white}"
             }
           },
           "background-color": {
@@ -1661,12 +1661,12 @@
           },
           "color": {
             "type": "color",
-            "value": "{utrecht.color.white}"
+            "value": "{utrecht.color.neutral.white}"
           },
           "disabled": {
             "background-color": {
               "type": "color",
-              "value": "{utrecht.color.gray.50}"
+              "value": "{utrecht.color.grey.80}"
             },
             "border-color": {
               "value": "transparent",
@@ -1674,7 +1674,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{utrecht.color.gray.500}"
+              "value": "{utrecht.color.grey.40}"
             }
           },
           "focus": {
@@ -1706,7 +1706,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{utrecht.color.white}"
+              "value": "{utrecht.color.neutral.white}"
             }
           }
         },
@@ -1714,7 +1714,7 @@
           "hover": {
             "background-color": {
               "type": "color",
-              "value": "{utrecht.color.gray.50}"
+              "value": "{utrecht.color.neutral.white}"
             },
             "border-color": {
               "type": "color",
@@ -1727,7 +1727,7 @@
           },
           "background-color": {
             "type": "color",
-            "value": "{utrecht.color.white}"
+            "value": "{utrecht.color.neutral.white}"
           },
           "border-color": {
             "type": "color",
@@ -1740,7 +1740,7 @@
           "disabled": {
             "background-color": {
               "type": "color",
-              "value": "{utrecht.color.gray.50}"
+              "value": "{utrecht.color.grey.80}"
             },
             "border-color": {
               "type": "color",
@@ -1748,7 +1748,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{utrecht.color.gray.500}"
+              "value": "{utrecht.color.grey.40}"
             }
           },
           "focus": {
@@ -1772,7 +1772,7 @@
           "active": {
             "background-color": {
               "type": "color",
-              "value": "{utrecht.color.gray.100}"
+              "value": "{utrecht.color.neutral.white}"
             },
             "border-color": {
               "type": "color",
@@ -1790,11 +1790,11 @@
         },
         "border-color": {
           "type": "color",
-          "value": "{utrecht.color.gray.900}"
+          "value": "{utrecht.color.neutral.white}"
         },
         "color": {
           "type": "color",
-          "value": "{utrecht.color.gray.900}"
+          "value": "{utrecht.color.neutral.white}"
         },
         "border-radius": {
           "type": "borderRadius",
@@ -1834,7 +1834,7 @@
           "hover": {
             "background-color": {
               "type": "color",
-              "value": "{utrecht.color.dark.alpha.50}"
+              "value": "transparent"
             },
             "border-color": {
               "type": "color",
@@ -1860,7 +1860,7 @@
           "disabled": {
             "background-color": {
               "type": "color",
-              "value": "{utrecht.color.gray.50}"
+              "value": "{utrecht.color.grey.80}"
             },
             "border-color": {
               "type": "color",
@@ -1868,7 +1868,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{utrecht.color.gray.500}"
+              "value": "{utrecht.color.grey.40}"
             }
           },
           "focus": {
@@ -1888,7 +1888,7 @@
           "active": {
             "background-color": {
               "type": "color",
-              "value": "{utrecht.color.dark.alpha.100}"
+              "value": "transparent"
             },
             "border-color": {
               "type": "color",
