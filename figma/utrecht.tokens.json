@@ -1218,7 +1218,7 @@
           "hover": {
             "background-color": {
               "type": "color",
-              "value": "{utrecht.color.gray.100}"
+              "value": "{utrecht.color.grey.80}"
             },
             "border-color": {
               "value": "transparent",
@@ -1231,7 +1231,7 @@
           },
           "expanded": {
             "background-color": {
-              "value": "{utrecht.color.gray.50}",
+              "value": "{utrecht.color.grey.80}",
               "type": "color"
             },
             "border-color": {
@@ -1245,7 +1245,7 @@
           },
           "background-color": {
             "type": "color",
-            "value": "{utrecht.color.gray.50}"
+            "value": "{utrecht.color.grey.80}"
           },
           "border-color": {
             "value": "transparent",
@@ -1312,7 +1312,7 @@
             "type": "lineHeights"
           },
           "font-size": {
-            "value": "{utrecht.typography.font-size.xl}",
+            "value": "{utrecht.typography.scale.xl}",
             "type": "fontSizes"
           }
         },
@@ -1460,7 +1460,7 @@
       "blockquote": {
         "attribution": {
           "font-size": {
-            "value": "{utrecht.typography.font-size.sm}",
+            "value": "{utrecht.typography.scale.md}",
             "type": "fontSizes"
           },
           "font-family": {
@@ -1498,7 +1498,7 @@
             "type": "fontWeights"
           },
           "font-size": {
-            "value": "{utrecht.typography.font-size.xl}",
+            "value": "{utrecht.typography.scale.md}",
             "type": "fontSizes"
           },
           "color": {
@@ -1922,7 +1922,7 @@
         },
         "disabled": {
           "background-color": {
-            "value": "{utrecht.color.gray.50}",
+            "value": "{utrecht.color.grey.80}",
             "type": "color"
           },
           "border-color": {
@@ -1930,7 +1930,7 @@
             "type": "color"
           },
           "color": {
-            "value": "{utrecht.color.gray.500}",
+            "value": "{utrecht.color.grey.40}",
             "type": "color"
           }
         },
@@ -1950,7 +1950,7 @@
         },
         "hover": {
           "background-color": {
-            "value": "{utrecht.color.gray.50}",
+            "value": "{utrecht.color.grey.80}",
             "type": "color"
           },
           "border-color": {
@@ -2056,7 +2056,7 @@
             "type": "color"
           },
           "color": {
-            "value": "{utrecht.color.white}",
+            "value": "{utrecht.color.neutral.white}",
             "type": "color"
           },
           "border-width": {
@@ -2073,7 +2073,7 @@
               "type": "color"
             },
             "color": {
-              "value": "{utrecht.color.white}",
+              "value": "{utrecht.color.neutral.white}",
               "type": "color"
             }
           },
@@ -2109,7 +2109,7 @@
               "type": "color"
             },
             "color": {
-              "value": "{utrecht.color.white}",
+              "value": "{utrecht.color.neutral.white}",
               "type": "color"
             }
           },
@@ -2127,7 +2127,7 @@
               "type": "color"
             },
             "color": {
-              "value": "{utrecht.color.white}",
+              "value": "{utrecht.color.neutral.white}",
               "type": "color"
             }
           }
@@ -2142,7 +2142,7 @@
             "type": "color"
           },
           "color": {
-            "value": "{utrecht.color.white}",
+            "value": "{utrecht.color.neutral.white}",
             "type": "color"
           },
           "border-width": {
@@ -2159,7 +2159,7 @@
               "type": "color"
             },
             "color": {
-              "value": "{utrecht.color.white}",
+              "value": "{utrecht.color.neutral.white}",
               "type": "color"
             }
           },
@@ -2173,7 +2173,7 @@
               "type": "color"
             },
             "color": {
-              "value": "{utrecht.color.white}",
+              "value": "{utrecht.color.neutral.white}",
               "type": "color"
             },
             "border-width": {
@@ -2191,7 +2191,7 @@
               "type": "color"
             },
             "color": {
-              "value": "{utrecht.color.white}",
+              "value": "{utrecht.color.neutral.white}",
               "type": "color"
             },
             "border-width": {
@@ -2267,7 +2267,7 @@
       },
       "counter-badge": {
         "font-size": {
-          "value": "{utrecht.typography.font-size.sm}",
+          "value": "{utrecht.typography.scale.sm}",
           "type": "fontSizes"
         },
         "line-height": {
@@ -2300,7 +2300,7 @@
         },
         "background-color": {
           "type": "color",
-          "value": "{utrecht.color.violet.100}"
+          "value": "{utrecht.color.blue.40}"
         },
         "border-color": {
           "type": "color",
@@ -2613,7 +2613,7 @@
           "type": "lineHeights"
         },
         "font-size": {
-          "value": "{utrecht.typography.font-size.3xl}",
+          "value": "{utrecht.typography.scale.3xl}",
           "type": "fontSizes"
         }
       },
@@ -2635,7 +2635,7 @@
           "type": "lineHeights"
         },
         "font-size": {
-          "value": "{utrecht.typography.font-size.2xl}",
+          "value": "{utrecht.typography.scale.2xl}",
           "type": "fontSizes"
         }
       },
@@ -2657,7 +2657,7 @@
           "type": "lineHeights"
         },
         "font-size": {
-          "value": "{utrecht.typography.font-size.xl}",
+          "value": "{utrecht.typography.scale.xl}",
           "type": "fontSizes"
         }
       },
@@ -2679,7 +2679,7 @@
           "type": "lineHeights"
         },
         "font-size": {
-          "value": "{utrecht.typography.font-size.lg}",
+          "value": "{utrecht.typography.scale.lg}",
           "type": "fontSizes"
         }
       },
@@ -2701,7 +2701,7 @@
           "type": "lineHeights"
         },
         "font-size": {
-          "value": "{utrecht.typography.font-size.md}",
+          "value": "{utrecht.typography.scale.md}",
           "type": "fontSizes"
         }
       },
@@ -2723,7 +2723,7 @@
           "type": "lineHeights"
         },
         "font-size": {
-          "value": "{utrecht.typography.font-size.sm}",
+          "value": "{utrecht.typography.scale.sm}",
           "type": "fontSizes"
         }
       },
@@ -3187,7 +3187,7 @@
           "type": "fontFamilies"
         },
         "font-size": {
-          "value": "{utrecht.typography.font-size.lg}",
+          "value": "{utrecht.typography.scale.lg}",
           "type": "fontSizes"
         },
         "font-weight": {
@@ -3209,7 +3209,7 @@
           "type": "fontFamilies"
         },
         "font-size": {
-          "value": "{utrecht.typography.font-size.sm}",
+          "value": "{utrecht.typography.scale.sm}",
           "type": "fontSizes"
         },
         "font-weight": {
@@ -3302,7 +3302,7 @@
             "type": "color"
           },
           "color": {
-            "value": "{utrecht.color.white}",
+            "value": "{utrecht.color.neutral.white}",
             "type": "color"
           },
           "hover": {
@@ -3315,7 +3315,7 @@
               "type": "color"
             },
             "color": {
-              "value": "{utrecht.color.white}",
+              "value": "{utrecht.color.neutral.white}",
               "type": "color"
             },
             "border-width": {
@@ -3333,7 +3333,7 @@
               "type": "color"
             },
             "color": {
-              "value": "{utrecht.color.white}",
+              "value": "{utrecht.color.neutral.white}",
               "type": "color"
             },
             "border-width": {
@@ -3369,7 +3369,7 @@
               "type": "color"
             },
             "color": {
-              "value": "{utrecht.color.white}",
+              "value": "{utrecht.color.neutral.white}",
               "type": "color"
             }
           },
@@ -3655,7 +3655,7 @@
       },
       "status-badge": {
         "font-size": {
-          "value": "{utrecht.typography.font-size.sm}",
+          "value": "{utrecht.typography.scale.sm}",
           "type": "fontSizes"
         },
         "line-height": {
@@ -3744,7 +3744,7 @@
         },
         "background-color": {
           "type": "color",
-          "value": "{utrecht.color.violet.100}"
+          "value": "{utrecht.color.grey.80}"
         },
         "border-color": {
           "type": "color",
@@ -3800,7 +3800,7 @@
             "type": "fontWeights"
           },
           "font-size": {
-            "value": "{utrecht.typography.font-size.xl}",
+            "value": "{utrecht.typography.scale.xl}",
             "type": "fontSizes"
           }
         },
