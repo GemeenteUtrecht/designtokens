@@ -1802,7 +1802,7 @@
         },
         "border-width": {
           "type": "borderWidth",
-          "value": "{utrecht.border-width.sm}"
+          "value": "{utrecht.border-width.md}"
         },
         "icon": {
           "size": {
