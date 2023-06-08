@@ -1905,19 +1905,19 @@
           "type": "lineHeights"
         },
         "padding-block-end": {
-          "value": "{utrecht.space.block.2xs}",
+          "value": "{utrecht.space.block.xs}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{utrecht.space.block.2xs}",
+          "value": "{utrecht.space.block.xs}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{utrecht.space.inline.sm}",
+          "value": "{utrecht.space.inline.lg}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{utrecht.space.inline.sm}",
+          "value": "{utrecht.space.inline.lg}",
           "type": "spacing"
         },
         "disabled": {
