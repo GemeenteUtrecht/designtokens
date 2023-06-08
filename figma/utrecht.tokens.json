@@ -95,12 +95,12 @@
         },
         "weight-scale": {
           "bold": {
-            "value": "bold",
+            "value": "Bold",
             "type": "fontWeights",
             "description": "Vetgedrukt"
           },
           "normal": {
-            "value": "regular",
+            "value": "Regular",
             "type": "fontWeights",
             "description": "Normale tekst"
           }
@@ -1317,7 +1317,7 @@
           }
         },
         "column-gap": {
-          "value": "{utrecht.space.column.snail}",
+          "value": "{utrecht.space.column.md}",
           "type": "spacing"
         },
         "border-width": {
@@ -1964,7 +1964,7 @@
         },
         "active": {
           "background-color": {
-            "value": "{utrecht.color.gray.100}",
+            "value": "transparent",
             "type": "color"
           },
           "border-color": {
@@ -2584,14 +2584,14 @@
         },
         "disabled": {
           "color": {
-            "value": "{utrecht.color.gray.600}",
+            "value": "{utrecht.color.grey.40}",
             "type": "color"
           }
         }
       },
       "form-field-radio-option": {
         "column-gap": {
-          "value": "{utrecht.space.column.snail}",
+          "value": "{utrecht.space.column.xs}",
           "type": "spacing"
         }
       },
@@ -3683,7 +3683,7 @@
           "type": "spacing"
         },
         "padding-block": {
-          "value": "{utrecht.space.block.flea}",
+          "value": "{utrecht.space.block.3xs}",
           "type": "spacing"
         },
         "informative": {
