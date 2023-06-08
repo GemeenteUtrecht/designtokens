@@ -857,7 +857,7 @@
           "type": "color"
         },
         "border-width": {
-          "value": "{utrecht.border-width.sm}",
+          "value": "{utrecht.border-width.lg}",
           "type": "borderWidth"
         },
         "color": {
