@@ -2489,19 +2489,19 @@
           "type": "sizing"
         },
         "padding-block-end": {
-          "value": "{voorbeeld.space.block.snail}",
+          "value": "{utrecht.space.block.sm}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{voorbeeld.space.block.snail}",
+          "value": "{utrecht.space.block.sm}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{voorbeeld.space.inline.snail}",
+          "value": "{utrecht.space.block.sm}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{voorbeeld.space.inline.snail}",
+          "value": "{utrecht.space.block.sm}",
           "type": "spacing"
         },
         "background-color": {
