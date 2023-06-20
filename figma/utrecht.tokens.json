@@ -857,6 +857,10 @@
           "type": "color"
         },
         "border-width": {
+          "value": "{utrecht.border-width.sm}",
+          "type": "borderWidth"
+        },
+        "border-block-end-width": {
           "value": "{utrecht.border-width.lg}",
           "type": "borderWidth"
         },
@@ -1130,6 +1134,28 @@
           "color": {
             "value": "{utrecht.color.neutral.white}",
             "type": "color"
+          }
+        }
+      },
+      "toggle": {
+        "thumb": {
+          "min-block-size": {
+            "value": "{utrecht.size.xs}",
+            "type": "sizing"
+          },
+          "min-inline-size": {
+            "value": "{utrecht.size.xs}",
+            "type": "sizing"
+          },
+          "border-radius": {
+            "value": "{utrecht.border-radius.round}",
+            "type": "borderRadius"
+          }
+        },
+        "track": {
+          "border-radius": {
+            "value": "{utrecht.border-radius.round}",
+            "type": "borderRadius"
           }
         }
       }
@@ -4297,7 +4323,7 @@
           }
         },
         "border-block-end-width": {
-          "value": "auto",
+          "value": "{utrecht.form-control.border-block-end-width}",
           "type": "borderWidth"
         },
         "border-width": {
