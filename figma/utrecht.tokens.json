@@ -1136,28 +1136,6 @@
             "type": "color"
           }
         }
-      },
-      "toggle": {
-        "thumb": {
-          "min-block-size": {
-            "value": "{utrecht.size.xs}",
-            "type": "sizing"
-          },
-          "min-inline-size": {
-            "value": "{utrecht.size.xs}",
-            "type": "sizing"
-          },
-          "border-radius": {
-            "value": "{utrecht.border-radius.round}",
-            "type": "borderRadius"
-          }
-        },
-        "track": {
-          "border-radius": {
-            "value": "{utrecht.border-radius.round}",
-            "type": "borderRadius"
-          }
-        }
       }
     },
     "utrecht": {
