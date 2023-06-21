@@ -3388,11 +3388,11 @@
             }
           },
           "padding-block-end": {
-            "value": "{utrecht.space.block.2xs}",
+            "value": "0px",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.2xs}",
+            "value": "{utrecht.space.block.3xs}",
             "type": "spacing"
           },
           "padding-inline-end": {
@@ -3400,7 +3400,7 @@
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{utrecht.space.inline.2xs}",
+            "value": "0px",
             "type": "spacing"
           },
           "positive": {
@@ -3424,6 +3424,12 @@
           "size": {
             "type": "sizing",
             "value": "{utrecht.icon.functional.size}"
+          },
+          "neutral": {
+            "color": {
+              "value": "{utrecht.feedback.neutral.color}",
+              "type": "color"
+            }
           }
         },
         "negative": {
@@ -3474,11 +3480,11 @@
             "type": "spacing"
           },
           "padding-block-end": {
-            "value": "{utrecht.space.block.2xs}",
+            "value": "0px",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.xs}",
+            "value": "0px",
             "type": "spacing"
           }
         },
