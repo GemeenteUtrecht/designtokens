@@ -857,7 +857,7 @@
           "type": "color"
         },
         "border-width": {
-          "value": "{utrecht.border-width.sm}",
+          "value": "{utrecht.border-width.md}",
           "type": "borderWidth"
         },
         "border-block-end-width": {
@@ -874,7 +874,7 @@
             "type": "color"
           },
           "background-color": {
-            "value": "{utrecht.color.grey.40}",
+            "value": "{utrecht.color.blue.90}",
             "type": "color"
           },
           "border-color": {
@@ -932,7 +932,7 @@
             "type": "color"
           },
           "background-color": {
-            "value": "{utrecht.color.grey.40}",
+            "value": "{utrecht.color.blue.80}",
             "type": "color"
           },
           "border-color": {
@@ -940,7 +940,7 @@
             "type": "color"
           },
           "border-width": {
-            "value": "{utrecht.border-width.md}",
+            "value": "{utrecht.border-width.lg}",
             "type": "borderWidth"
           },
           "color": {
