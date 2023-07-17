@@ -2010,7 +2010,8 @@
         },
         "size": {
           "type": "sizing",
-          "value": "{utrecht.size.xs}"
+          "value": "22",
+          "description": "Change token to hrd value {utrecht.size.xs}\nNeed an common token "
         },
         "icon": {
           "size": {
