@@ -3586,7 +3586,8 @@
         },
         "size": {
           "type": "sizing",
-          "value": "{utrecht.size.xs}"
+          "value": "22",
+          "description": "was {utrecht.size.xs} is naar harde waarde gezet"
         },
         "dot": {
           "size": {
