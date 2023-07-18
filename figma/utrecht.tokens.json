@@ -932,7 +932,7 @@
             "type": "color"
           },
           "background-color": {
-            "value": "{utrecht.color.blue.80}",
+            "value": "{utrecht.color.neutral.white}",
             "type": "color"
           },
           "border-color": {
