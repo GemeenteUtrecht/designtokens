@@ -1089,7 +1089,7 @@
       }
     }
   },
-  "component": {
+  "component/avatar": {
     "nl": {
       "avatar": {
         "background-color": {
@@ -1159,7 +1159,9 @@
           }
         }
       }
-    },
+    }
+  },
+  "component/accordion": {
     "utrecht": {
       "accordion": {
         "border-radius": {
@@ -1322,7 +1324,11 @@
             "type": "fontWeights"
           }
         }
-      },
+      }
+    }
+  },
+  "component/alert": {
+    "utrecht": {
       "alert": {
         "heading": {
           "font-family": {
@@ -1482,7 +1488,11 @@
             "type": "spacing"
           }
         }
-      },
+      }
+    }
+  },
+  "component/blockquote": {
+    "utrecht": {
       "blockquote": {
         "attribution": {
           "font-size": {
@@ -1552,7 +1562,11 @@
           "value": "transparent",
           "type": "color"
         }
-      },
+      }
+    }
+  },
+  "component/breadcrumb": {
+    "utrecht": {
       "breadcrumb": {
         "line-height": {
           "value": "{utrecht.document.line-height}",
@@ -1660,7 +1674,11 @@
           "value": "{utrecht.document.font-weight}",
           "type": "fontWeights"
         }
-      },
+      }
+    }
+  },
+  "component/button": {
+    "utrecht": {
       "button": {
         "primary-action": {
           "hover": {
@@ -2010,7 +2028,11 @@
           "type": "sizing",
           "value": "{utrecht.pointer-target.min-size}"
         }
-      },
+      }
+    }
+  },
+  "component/checkbox": {
+    "utrecht": {
       "checkbox": {
         "border-radius": {
           "type": "borderRadius",
@@ -2277,7 +2299,11 @@
             "type": "color"
           }
         }
-      },
+      }
+    }
+  },
+  "component/checkbox-group": {
+    "utrecht": {
       "checkbox-group": {
         "padding-block-end": {
           "value": "{utrecht.space.block.xs}",
@@ -2291,7 +2317,11 @@
           "value": "{utrecht.space.row.xs}",
           "type": "spacing"
         }
-      },
+      }
+    }
+  },
+  "component/counter-badge": {
+    "utrecht": {
       "counter-badge": {
         "font-size": {
           "value": "{utrecht.typography.scale.sm}",
@@ -2345,7 +2375,11 @@
           "value": "{utrecht.space.block.xs}",
           "type": "spacing"
         }
-      },
+      }
+    }
+  },
+  "component/data-list": {
+    "utrecht": {
       "data-list": {
         "font-family": {
           "value": "{utrecht.document.font-family}",
@@ -2489,7 +2523,11 @@
             "type": "spacing"
           }
         }
-      },
+      }
+    }
+  },
+  "component/email-input": {
+    "utrecht": {
       "email-input": {
         "border-radius": {
           "type": "borderRadius",
@@ -2639,7 +2677,11 @@
             "type": "color"
           }
         }
-      },
+      }
+    }
+  },
+  "component/form-field": {
+    "utrecht": {
       "form-field": {
         "invalid": {
           "border-inline-start-color": {
@@ -2655,7 +2697,11 @@
             "type": "spacing"
           }
         }
-      },
+      }
+    }
+  },
+  "component/form-field-description": {
+    "utrecht": {
       "form-field-description": {
         "color": {
           "type": "color",
@@ -2677,13 +2723,21 @@
           "value": "{utrecht.document.line-height}",
           "type": "lineHeights"
         }
-      },
+      }
+    }
+  },
+  "component/form-field-checkbox-option": {
+    "utrecht": {
       "form-field-checkbox-option": {
         "column-gap": {
           "value": "{utrecht.space.column.xs}",
           "type": "spacing"
         }
-      },
+      }
+    }
+  },
+  "component/form-field-error-message": {
+    "utrecht": {
       "form-field-error-message": {
         "icon": {
           "size": {
@@ -2715,7 +2769,11 @@
           "value": "{utrecht.document.line-height}",
           "type": "lineHeights"
         }
-      },
+      }
+    }
+  },
+  "component/form-field-label": {
+    "utrecht": {
       "form-field-label": {
         "color": {
           "type": "color",
@@ -2737,7 +2795,11 @@
           "value": "{utrecht.document.line-height}",
           "type": "lineHeights"
         }
-      },
+      }
+    }
+  },
+  "component/form-field-option-label": {
+    "utrecht": {
       "form-field-option-label": {
         "color": {
           "value": "{utrecht.form-control.color}",
@@ -2765,13 +2827,21 @@
             "type": "color"
           }
         }
-      },
+      }
+    }
+  },
+  "component/form-field-radio-option": {
+    "utrecht": {
       "form-field-radio-option": {
         "column-gap": {
           "value": "{utrecht.space.column.xs}",
           "type": "spacing"
         }
-      },
+      }
+    }
+  },
+  "component/heading-1": {
+    "utrecht": {
       "heading-1": {
         "color": {
           "type": "color",
@@ -2793,7 +2863,11 @@
           "value": "{utrecht.typography.scale.3xl}",
           "type": "fontSizes"
         }
-      },
+      }
+    }
+  },
+  "component/heading-2": {
+    "utrecht": {
       "heading-2": {
         "color": {
           "type": "color",
@@ -2815,29 +2889,11 @@
           "value": "{utrecht.typography.scale.2xl}",
           "type": "fontSizes"
         }
-      },
-      "heading-3": {
-        "color": {
-          "type": "color",
-          "value": "{utrecht.heading.color}"
-        },
-        "font-family": {
-          "value": "{utrecht.heading.font-family}",
-          "type": "fontFamilies"
-        },
-        "font-weight": {
-          "value": "{utrecht.heading.font-weight}",
-          "type": "fontWeights"
-        },
-        "line-height": {
-          "value": "{utrecht.typography.line-height.sm}",
-          "type": "lineHeights"
-        },
-        "font-size": {
-          "value": "{utrecht.typography.scale.xl}",
-          "type": "fontSizes"
-        }
-      },
+      }
+    }
+  },
+  "component/heading-4": {
+    "utrecht": {
       "heading-4": {
         "color": {
           "type": "color",
@@ -2859,7 +2915,37 @@
           "value": "{utrecht.typography.scale.lg}",
           "type": "fontSizes"
         }
-      },
+      }
+    }
+  },
+  "component/heading-3": {
+    "utrecht": {
+      "heading-3": {
+        "color": {
+          "type": "color",
+          "value": "{utrecht.heading.color}"
+        },
+        "font-family": {
+          "value": "{utrecht.heading.font-family}",
+          "type": "fontFamilies"
+        },
+        "font-weight": {
+          "value": "{utrecht.heading.font-weight}",
+          "type": "fontWeights"
+        },
+        "line-height": {
+          "value": "{utrecht.typography.line-height.sm}",
+          "type": "lineHeights"
+        },
+        "font-size": {
+          "value": "{utrecht.typography.scale.xl}",
+          "type": "fontSizes"
+        }
+      }
+    }
+  },
+  "component/heading-5": {
+    "utrecht": {
       "heading-5": {
         "color": {
           "type": "color",
@@ -2881,7 +2967,11 @@
           "value": "{utrecht.typography.scale.md}",
           "type": "fontSizes"
         }
-      },
+      }
+    }
+  },
+  "component/heading-6": {
+    "utrecht": {
       "heading-6": {
         "color": {
           "type": "color",
@@ -2903,7 +2993,11 @@
           "value": "{utrecht.typography.scale.sm}",
           "type": "fontSizes"
         }
-      },
+      }
+    }
+  },
+  "component/link": {
+    "utrecht": {
       "link": {
         "line-height": {
           "value": "{utrecht.document.line-height}",
@@ -2999,7 +3093,11 @@
           "value": "{utrecht.document.font-weight}",
           "type": "fontWeights"
         }
-      },
+      }
+    }
+  },
+  "component/ordered-list": {
+    "utrecht": {
       "ordered-list": {
         "padding-inline-start": {
           "value": "{utrecht.space.inline.lg}",
@@ -3035,7 +3133,11 @@
             "type": "spacing"
           }
         }
-      },
+      }
+    }
+  },
+  "component/pagination": {
+    "utrecht": {
       "pagination": {
         "relative-link": {
           "border-width": {
@@ -3331,7 +3433,11 @@
             "type": "fontWeights"
           }
         }
-      },
+      }
+    }
+  },
+  "component/spotlight-section": {
+    "utrecht": {
       "spotlight-section": {
         "heading": {
           "font-family": {
@@ -3511,7 +3617,11 @@
             "type": "color"
           }
         }
-      },
+      }
+    }
+  },
+  "component/paragraph": {
+    "utrecht": {
       "paragraph": {
         "color": {
           "type": "color",
@@ -3533,7 +3643,11 @@
           "value": "{utrecht.document.line-height}",
           "type": "lineHeights"
         }
-      },
+      }
+    }
+  },
+  "component/paragraph-lead": {
+    "utrecht": {
       "paragraph-lead": {
         "color": {
           "type": "color",
@@ -3555,7 +3669,11 @@
           "value": "{utrecht.document.line-height}",
           "type": "lineHeights"
         }
-      },
+      }
+    }
+  },
+  "component/paragraph-small-print": {
+    "utrecht": {
       "paragraph-small-print": {
         "color": {
           "type": "color",
@@ -3577,7 +3695,11 @@
           "value": "{utrecht.document.line-height}",
           "type": "lineHeights"
         }
-      },
+      }
+    }
+  },
+  "component/radio": {
+    "utrecht": {
       "radio": {
         "active": {
           "border-width": {
@@ -3758,7 +3880,11 @@
           "value": "{utrecht.form-control.border-width}",
           "type": "borderWidth"
         }
-      },
+      }
+    }
+  },
+  "component/radio-group": {
+    "utrecht": {
       "radio-group": {
         "padding-block-end": {
           "value": "{utrecht.space.block.xs}",
@@ -3772,7 +3898,11 @@
           "value": "{utrecht.space.row.xs}",
           "type": "spacing"
         }
-      },
+      }
+    }
+  },
+  "component/select": {
+    "utrecht": {
       "select": {
         "icon": {
           "size": {
@@ -3908,7 +4038,11 @@
           "value": "400px",
           "type": "sizing"
         }
-      },
+      }
+    }
+  },
+  "component/separator": {
+    "utrecht": {
       "separator": {
         "color": {
           "value": "{utrecht.line.border-color}",
@@ -3926,7 +4060,11 @@
           "value": "{utrecht.space.block.2xs}",
           "type": "spacing"
         }
-      },
+      }
+    }
+  },
+  "component/skip-link": {
+    "utrecht": {
       "skip-link": {
         "font-weight": {
           "value": "{utrecht.document.strong.font-weight}",
@@ -4010,7 +4148,11 @@
           "value": "underline",
           "type": "textDecoration"
         }
-      },
+      }
+    }
+  },
+  "component/status-badge": {
+    "utrecht": {
       "status-badge": {
         "font-size": {
           "value": "{utrecht.typography.scale.sm}",
@@ -4112,7 +4254,11 @@
           "type": "color",
           "value": "{utrecht.document.color}"
         }
-      },
+      }
+    }
+  },
+  "component/table": {
+    "utrecht": {
       "table": {
         "header-cell": {
           "line-height": {
@@ -4276,7 +4422,11 @@
             "type": "boxShadow"
           }
         }
-      },
+      }
+    }
+  },
+  "component/textarea": {
+    "utrecht": {
       "textarea": {
         "max-inline-size": {
           "value": "400px",
@@ -4426,7 +4576,11 @@
           "value": "{utrecht.document.font-size}",
           "type": "fontSizes"
         }
-      },
+      }
+    }
+  },
+  "component/textbox": {
+    "utrecht": {
       "textbox": {
         "border-radius": {
           "type": "borderRadius",
@@ -4576,7 +4730,11 @@
             "type": "color"
           }
         }
-      },
+      }
+    }
+  },
+  "component/unordered-list": {
+    "utrecht": {
       "unordered-list": {
         "color": {
           "type": "color",
@@ -4622,7 +4780,11 @@
             "type": "spacing"
           }
         }
-      },
+      }
+    }
+  },
+  "component/icon-only-button": {
+    "utrecht": {
       "icon-only-button": {
         "padding-block-end": {
           "value": "{utrecht.space.block.2xs}",
@@ -4641,7 +4803,9 @@
           "type": "spacing"
         }
       }
-    },
+    }
+  },
+  "component/sidenav": {
     "denhaag": {
       "sidenav": {
         "link": {
@@ -4740,7 +4904,49 @@
     "tokenSetOrder": [
       "brand",
       "common",
-      "component"
+      "component/avatar",
+      "component/accordion",
+      "component/alert",
+      "component/blockquote",
+      "component/breadcrumb",
+      "component/button",
+      "component/checkbox",
+      "component/checkbox-group",
+      "component/counter-badge",
+      "component/data-list",
+      "component/email-input",
+      "component/form-field",
+      "component/form-field-description",
+      "component/form-field-checkbox-option",
+      "component/form-field-error-message",
+      "component/form-field-label",
+      "component/form-field-option-label",
+      "component/form-field-radio-option",
+      "component/heading-1",
+      "component/heading-2",
+      "component/heading-4",
+      "component/heading-3",
+      "component/heading-5",
+      "component/heading-6",
+      "component/link",
+      "component/ordered-list",
+      "component/pagination",
+      "component/spotlight-section",
+      "component/paragraph",
+      "component/paragraph-lead",
+      "component/paragraph-small-print",
+      "component/radio",
+      "component/radio-group",
+      "component/select",
+      "component/separator",
+      "component/skip-link",
+      "component/status-badge",
+      "component/table",
+      "component/textarea",
+      "component/textbox",
+      "component/unordered-list",
+      "component/icon-only-button",
+      "component/sidenav"
     ]
   }
 }
