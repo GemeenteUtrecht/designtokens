@@ -330,35 +330,43 @@
         "block": {
           "3xs": {
             "value": "2px",
-            "type": "spacing"
+            "type": "spacing",
+            "description": "2"
           },
           "2xs": {
             "value": "4px",
-            "type": "spacing"
+            "type": "spacing",
+            "description": "4"
           },
           "xs": {
             "value": "8px",
-            "type": "spacing"
+            "type": "spacing",
+            "description": "8"
           },
           "sm": {
             "value": "12px",
-            "type": "spacing"
+            "type": "spacing",
+            "description": "12"
           },
           "md": {
             "value": "16px",
-            "type": "spacing"
+            "type": "spacing",
+            "description": "16"
           },
           "lg": {
             "value": "20px",
-            "type": "spacing"
+            "type": "spacing",
+            "description": "20"
           },
           "xl": {
             "value": "24px",
-            "type": "spacing"
+            "type": "spacing",
+            "description": "24"
           },
           "2xl": {
             "value": "32px",
-            "type": "spacing"
+            "type": "spacing",
+            "description": "32"
           },
           "3xl": {
             "value": "48px",
