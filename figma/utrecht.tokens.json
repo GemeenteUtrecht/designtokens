@@ -2040,8 +2040,8 @@
         },
         "size": {
           "type": "sizing",
-          "value": "22",
-          "description": "Change token to hrd value {utrecht.size.xs}\nNeed an common token "
+          "value": "{utrecht.size.xs}",
+          "description": "was 22 is naar {utrecht.size.xs} gezet"
         },
         "icon": {
           "size": {
@@ -3717,8 +3717,8 @@
         },
         "size": {
           "type": "sizing",
-          "value": "22",
-          "description": "was {utrecht.size.xs} is naar harde waarde gezet"
+          "value": "{utrecht.size.xs}",
+          "description": "was 22 is naar {utrecht.size.xs} gezet"
         },
         "dot": {
           "size": {
