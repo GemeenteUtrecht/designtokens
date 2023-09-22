@@ -208,8 +208,8 @@
           },
           "80": {
             "value": "hsl(0, 0%, 80%)",
-            "description": "grijs variant voor achtergrond content #e5e5e5",
-            "type": "color"
+            "type": "color",
+            "description": "grijs variant voor achtergrond content is #CCCCCC niet #e5e5e5"
           },
           "90": {
             "value": "hsl(0, 0%, 90%)",
