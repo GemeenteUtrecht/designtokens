@@ -2689,7 +2689,7 @@
             "type": "color"
           },
           "border-inline-start-width": {
-            "value": "{utrecht.border-width.md}",
+            "value": "{utrecht.border-width.lg}",
             "type": "borderWidth"
           },
           "padding-inline-start": {
