@@ -2606,7 +2606,7 @@
           }
         },
         "border-block-end-width": {
-          "value": "auto",
+          "value": "{utrecht.form-control.border-block-end-width}",
           "type": "borderWidth"
         },
         "border-width": {
