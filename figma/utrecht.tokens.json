@@ -2365,7 +2365,7 @@
         },
         "color": {
           "type": "color",
-          "value": "{utrecht.document.color}"
+          "value": "{utrecht.color.neutral.white}"
         },
         "padding-inline": {
           "value": "{utrecht.space.inline.2xs}",
