@@ -997,7 +997,7 @@
       },
       "pointer-target": {
         "min-size": {
-          "value": "{utrecht.size.md}",
+          "value": "44px",
           "type": "sizing"
         }
       },
