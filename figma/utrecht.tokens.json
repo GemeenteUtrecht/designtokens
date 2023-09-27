@@ -1618,7 +1618,7 @@
               "value": "{utrecht.interaction.active.color}"
             },
             "text-decoration": {
-              "value": "none",
+              "value": "underline",
               "type": "textDecoration"
             }
           },
@@ -1632,7 +1632,7 @@
               "value": "{utrecht.focus.color}"
             },
             "text-decoration": {
-              "value": "none",
+              "value": "underline",
               "type": "textDecoration"
             }
           },
@@ -1642,7 +1642,7 @@
               "value": "{utrecht.interaction.hover.color}"
             },
             "text-decoration": {
-              "value": "none",
+              "value": "underline",
               "type": "textDecoration"
             }
           },
@@ -1653,7 +1653,7 @@
             }
           },
           "text-decoration": {
-            "value": "underline",
+            "value": "none",
             "type": "textDecoration"
           }
         },
