@@ -1399,11 +1399,11 @@
             }
           },
           "padding-block-end": {
-            "value": "{utrecht.space.block.2xs}",
+            "value": "0px",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.2xs}",
+            "value": "0px",
             "type": "spacing"
           },
           "padding-inline-end": {
@@ -1411,7 +1411,7 @@
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{utrecht.space.inline.2xs}",
+            "value": "0px",
             "type": "spacing"
           },
           "positive": {
