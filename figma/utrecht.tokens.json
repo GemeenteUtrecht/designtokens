@@ -4062,7 +4062,7 @@
           "type": "color"
         },
         "block-size": {
-          "value": "{utrecht.size.4xs}",
+          "value": "{utrecht.size.3xs}",
           "type": "sizing"
         },
         "padding-block-end": {
