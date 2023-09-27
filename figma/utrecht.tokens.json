@@ -817,6 +817,11 @@
             "value": "{utrecht.color.blue.35}",
             "type": "color"
           }
+        },
+        "scale": {
+          "value": "1.02",
+          "type": "other",
+          "description": "Makes the button 1.02 times bigger on hover and focus"
         }
       },
       "focus": {
@@ -865,7 +870,7 @@
           "type": "color"
         },
         "border-width": {
-          "value": "{utrecht.border-width.md}",
+          "value": "{utrecht.border-width.sm}",
           "type": "borderWidth"
         },
         "border-block-end-width": {
@@ -1990,6 +1995,10 @@
           "color": {
             "value": "{utrecht.focus.color}",
             "type": "color"
+          },
+          "scale": {
+            "value": "{utrecht.interaction.scale}",
+            "type": "other"
           }
         },
         "hover": {
@@ -2004,6 +2013,10 @@
           "color": {
             "value": "{utrecht.interaction.hover.color}",
             "type": "color"
+          },
+          "scale": {
+            "value": "{utrecht.interaction.scale}",
+            "type": "other"
           }
         },
         "active": {
@@ -3017,7 +3030,7 @@
             "value": "{utrecht.interaction.active.color}"
           },
           "text-decoration": {
-            "value": "none",
+            "value": "underline",
             "type": "textDecoration"
           }
         },
@@ -3031,7 +3044,7 @@
             "value": "{utrecht.focus.color}"
           },
           "text-decoration": {
-            "value": "none",
+            "value": "underline",
             "type": "textDecoration"
           },
           "text-decoration-thickness": {
@@ -3045,7 +3058,7 @@
             "value": "{utrecht.interaction.hover.color}"
           },
           "text-decoration": {
-            "value": "none",
+            "value": "underline",
             "type": "textDecoration"
           },
           "text-decoration-thickness": {
@@ -3060,7 +3073,7 @@
           }
         },
         "text-decoration": {
-          "value": "underline",
+          "value": "none",
           "type": "textDecoration"
         },
         "icon": {
@@ -3991,11 +4004,11 @@
           }
         },
         "padding-block-end": {
-          "value": "{utrecht.space.block.2xs}",
+          "value": "{utrecht.space.block.xs}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{utrecht.space.block.2xs}",
+          "value": "{utrecht.space.block.xs}",
           "type": "spacing"
         },
         "padding-inline-end": {
