@@ -793,7 +793,7 @@
       },
       "line": {
         "border-color": {
-          "value": "{utrecht.color.grey.40}",
+          "value": "{utrecht.color.grey.80}",
           "type": "color"
         },
         "border-width": {
