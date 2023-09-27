@@ -1834,11 +1834,11 @@
         },
         "border-color": {
           "type": "color",
-          "value": "{utrecht.color.neutral.white}"
+          "value": "{utrecht.color.grey.30}"
         },
         "color": {
           "type": "color",
-          "value": "{utrecht.color.neutral.white}"
+          "value": "{utrecht.color.grey.30}"
         },
         "border-radius": {
           "type": "borderRadius",
