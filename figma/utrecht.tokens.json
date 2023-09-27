@@ -1358,23 +1358,23 @@
           "type": "spacing"
         },
         "border-width": {
-          "value": "{utrecht.form-control.invalid.border-width}",
+          "value": "none",
           "type": "borderWidth"
         },
         "padding-block-end": {
-          "value": "{utrecht.space.block.2xs}",
+          "value": "{utrecht.space.block.md}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{utrecht.space.block.2xs}",
+          "value": "{utrecht.space.block.md}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{utrecht.space.inline.sm}",
+          "value": "{utrecht.space.inline.md}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{utrecht.space.inline.sm}",
+          "value": "{utrecht.space.inline.md}",
           "type": "spacing"
         },
         "informative": {
