@@ -1176,14 +1176,14 @@
         "section": {
           "border-block-end-width": {
             "type": "borderWidth",
-            "value": "{utrecht.border-width.sm}"
+            "value": "{utrecht.border-width.md}"
           },
           "border-width": {
             "type": "borderWidth",
-            "value": "auto"
+            "value": "{utrecht.border-width.md}"
           },
           "border-color": {
-            "value": "{utrecht.line.border-color}",
+            "value": "{utrecht.color.grey.90}",
             "type": "color"
           }
         },
@@ -1194,7 +1194,7 @@
           },
           "border-width": {
             "type": "borderWidth",
-            "value": "{utrecht.border-width.sm}"
+            "value": "{utrecht.border-width.md}"
           },
           "padding-block-end": {
             "value": "{utrecht.space.block.md}",
@@ -1233,11 +1233,11 @@
             }
           },
           "padding-block-end": {
-            "value": "{utrecht.space.block.2xs}",
+            "value": "{utrecht.space.block.xs}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.2xs}",
+            "value": "{utrecht.space.block.xs}",
             "type": "spacing"
           },
           "padding-inline-end": {
@@ -1251,7 +1251,7 @@
           "hover": {
             "background-color": {
               "type": "color",
-              "value": "{utrecht.color.grey.80}"
+              "value": "{utrecht.color.grey.90}"
             },
             "border-color": {
               "value": "transparent",
@@ -1264,7 +1264,7 @@
           },
           "expanded": {
             "background-color": {
-              "value": "{utrecht.color.grey.80}",
+              "value": "{utrecht.color.grey.90}",
               "type": "color"
             },
             "border-color": {
@@ -1278,7 +1278,7 @@
           },
           "background-color": {
             "type": "color",
-            "value": "{utrecht.color.grey.80}"
+            "value": "{utrecht.color.grey.90}"
           },
           "border-color": {
             "value": "transparent",
@@ -1305,7 +1305,7 @@
           "active": {
             "background-color": {
               "type": "color",
-              "value": "{utrecht.color.grey.80}"
+              "value": "{utrecht.color.grey.90}"
             },
             "border-color": {
               "value": "transparent",
@@ -1318,7 +1318,7 @@
           },
           "border-width": {
             "type": "borderWidth",
-            "value": "{utrecht.border-width.sm}"
+            "value": "{utrecht.border-width.md}"
           },
           "font-family": {
             "value": "{utrecht.document.font-family}",
