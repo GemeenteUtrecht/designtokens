@@ -2285,7 +2285,7 @@
           }
         },
         "border-width": {
-          "value": "{utrecht.form-control.border-width}",
+          "value": "{utrecht.border-width.md}",
           "type": "borderWidth"
         },
         "hover": {
@@ -2304,7 +2304,7 @@
         },
         "active": {
           "border-width": {
-            "value": "{utrecht.form-control.active.border-width}",
+            "value": "{utrecht.border-width.md}",
             "type": "borderWidth"
           },
           "background-color": {
@@ -3894,7 +3894,7 @@
           "value": "{utrecht.border-radius.round}"
         },
         "border-width": {
-          "value": "{utrecht.form-control.border-width}",
+          "value": "{utrecht.border-width.md}",
           "type": "borderWidth"
         }
       }
