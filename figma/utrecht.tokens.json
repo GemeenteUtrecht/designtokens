@@ -1362,7 +1362,7 @@
           "type": "spacing"
         },
         "border-width": {
-          "value": "none",
+          "value": "{utrecht.border-width.md}",
           "type": "borderWidth"
         },
         "padding-block-end": {
