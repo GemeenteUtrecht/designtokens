@@ -1227,6 +1227,10 @@
               "value": "{utrecht.space.inline.xs}",
               "type": "spacing"
             },
+            "margin-block": {
+              "value": "{utrecht.space.block.xs}",
+              "type": "spacing"
+            },
             "size": {
               "type": "sizing",
               "value": "{utrecht.icon.functional.size}"
@@ -1241,11 +1245,11 @@
             "type": "spacing"
           },
           "padding-inline-end": {
-            "value": "{utrecht.space.inline.sm}",
+            "value": "{utrecht.space.inline.md}",
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{utrecht.space.inline.sm}",
+            "value": "{utrecht.space.inline.md}",
             "type": "spacing"
           },
           "hover": {
