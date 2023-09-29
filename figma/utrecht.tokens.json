@@ -3172,11 +3172,11 @@
             }
           },
           "padding-block-end": {
-            "value": "{utrecht.space.block.2xs}",
+            "value": "{utrecht.space.block.xs}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.2xs}",
+            "value": "{utrecht.space.block.xs}",
             "type": "spacing"
           },
           "padding-inline-end": {
@@ -3285,7 +3285,7 @@
         "page-link": {
           "border-width": {
             "type": "borderWidth",
-            "value": "{utrecht.border-width.sm}"
+            "value": "{utrecht.border-width.md}"
           },
           "font-weight": {
             "value": "{utrecht.document.font-weight}",
@@ -3302,15 +3302,15 @@
             },
             "background-color": {
               "type": "color",
-              "value": "transparent"
+              "value": "{utrecht.document.background-color}"
             },
             "border-color": {
               "type": "color",
-              "value": "transparent"
+              "value": "{utrecht.color.blue.35}"
             },
             "color": {
               "type": "color",
-              "value": "{utrecht.document.color}"
+              "value": "{utrecht.color.blue.35}"
             }
           },
           "border-radius": {
@@ -3318,19 +3318,19 @@
             "type": "borderRadius"
           },
           "padding-block-end": {
-            "value": "{utrecht.space.block.2xs}",
+            "value": "{utrecht.space.block.xs}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.2xs}",
+            "value": "{utrecht.space.block.xs}",
             "type": "spacing"
           },
           "padding-inline-end": {
-            "value": "{utrecht.space.inline.sm}",
+            "value": "{utrecht.space.block.xs}",
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{utrecht.space.inline.sm}",
+            "value": "{utrecht.space.block.xs}",
             "type": "spacing"
           },
           "focus": {
