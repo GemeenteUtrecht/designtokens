@@ -1015,7 +1015,7 @@
         },
         "toptask": {
           "size": {
-            "value": "{utrecht.size.md}",
+            "value": "{utrecht.size.icon.3xl}",
             "type": "sizing"
           }
         }
@@ -1331,6 +1331,10 @@
           "font-weight": {
             "value": "{utrecht.document.strong.font-weight}",
             "type": "fontWeights"
+          },
+          "min-block-size": {
+            "value": "{utrecht.pointer-target.min-size}",
+            "type": "sizing"
           }
         }
       }
