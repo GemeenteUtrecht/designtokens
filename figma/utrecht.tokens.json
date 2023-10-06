@@ -4920,6 +4920,150 @@
       }
     }
   },
+  "toptask-link": {
+    "utrecht": {
+      "toptask-link": {
+        "background-color": {
+          "type": "color",
+          "value": "{utrecht.interaction.color}"
+        },
+        "border-color": {
+          "type": "color",
+          "value": "{utrecht.interaction.color}"
+        },
+        "color": {
+          "type": "color",
+          "value": "{utrecht.color.neutral.white}"
+        },
+        "border-radius": {
+          "type": "borderRadius",
+          "value": "{utrecht.border-radius.md}"
+        },
+        "border-width": {
+          "type": "borderWidth",
+          "value": "{utrecht.border-width.md}"
+        },
+        "icon": {
+          "size": {
+            "type": "sizing",
+            "value": "{utrecht.icon.toptask.size}"
+          },
+          "margin-inline": {
+            "value": "{utrecht.space.inline.xs}",
+            "type": "spacing"
+          }
+        },
+        "font-family": {
+          "value": "{utrecht.document.font-family}",
+          "type": "fontFamilies"
+        },
+        "font-size": {
+          "value": "{utrecht.document.font-size}",
+          "type": "fontSizes"
+        },
+        "font-weight": {
+          "value": "{utrecht.document.strong.font-weight}",
+          "type": "fontWeights"
+        },
+        "line-height": {
+          "value": "{utrecht.document.line-height}",
+          "type": "lineHeights"
+        },
+        "padding-min-block-end": {
+          "value": "{utrecht.space.block.3xl}",
+          "type": "spacing"
+        },
+        "padding-block-end": {
+          "value": "{utrecht.space.block.xs}",
+          "type": "spacing"
+        },
+        "padding-block-start": {
+          "value": "{utrecht.space.block.xs}",
+          "type": "spacing"
+        },
+        "padding-inline-end": {
+          "value": "{utrecht.space.inline.lg}",
+          "type": "spacing"
+        },
+        "padding-inline-start": {
+          "value": "{utrecht.space.inline.lg}",
+          "type": "spacing"
+        },
+        "disabled": {
+          "background-color": {
+            "value": "{utrecht.color.grey.80}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "transparent",
+            "type": "color"
+          },
+          "color": {
+            "value": "{utrecht.color.grey.40}",
+            "type": "color"
+          }
+        },
+        "focus": {
+          "background-color": {
+            "value": "{utrecht.focus.background-color}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "transparent",
+            "type": "color"
+          },
+          "color": {
+            "value": "{utrecht.focus.color}",
+            "type": "color"
+          },
+          "scale": {
+            "value": "{utrecht.interaction.scale}",
+            "type": "other"
+          }
+        },
+        "hover": {
+          "background-color": {
+            "value": "{utrecht.interaction.hover.color",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{utrecht.interaction.hover.color}",
+            "type": "color"
+          },
+          "color": {
+            "value": "{utrecht.interaction.hover.color}",
+            "type": "color"
+          },
+          "scale": {
+            "value": "{utrecht.interaction.scale}",
+            "type": "other"
+          }
+        },
+        "active": {
+          "background-color": {
+            "value": "transparent",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{utrecht.interaction.active.color}",
+            "type": "color"
+          },
+          "color": {
+            "value": "{utrecht.interaction.active.color}",
+            "type": "color"
+          }
+        },
+        "min-block-size": {
+          "type": "sizing",
+          "value": "{utrecht.pointer-target.min-size}"
+        },
+        "min-inline-size": {
+          "type": "sizing",
+          "value": "{utrecht.pointer-target.min-size}"
+        }
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -4967,7 +5111,8 @@
       "component/textbox",
       "component/unordered-list",
       "component/icon-only-button",
-      "component/sidenav"
+      "component/sidenav",
+      "toptask-link"
     ]
   }
 }
