@@ -1663,12 +1663,16 @@
           "text-decoration": {
             "value": "none",
             "type": "textDecoration"
+          },
+          "min-block-size": {
+            "value": "{utrecht.pointer-target.min-size}",
+            "type": "sizing"
           }
         },
         "divider": {
           "size": {
             "type": "sizing",
-            "value": "{utrecht.size.2xs}"
+            "value": "{utrecht.size.3xs}"
           },
           "color": {
             "value": "{utrecht.document.subtle.color}",
