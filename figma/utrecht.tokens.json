@@ -4920,7 +4920,7 @@
       }
     }
   },
-  "toptask-link": {
+  "component/toptask-link": {
     "utrecht": {
       "toptask-link": {
         "background-color": {
@@ -5112,7 +5112,7 @@
       "component/unordered-list",
       "component/icon-only-button",
       "component/sidenav",
-      "toptask-link"
+      "component/toptask-link"
     ]
   }
 }
