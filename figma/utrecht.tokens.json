@@ -3094,7 +3094,7 @@
             "value": "{utrecht.icon.functional.size}"
           },
           "margin-inline": {
-            "value": "{utrecht.space.inline.2xs}",
+            "value": "{utrecht.space.inline.xs}",
             "type": "spacing"
           }
         },
