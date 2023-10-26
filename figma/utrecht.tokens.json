@@ -1663,16 +1663,12 @@
           "text-decoration": {
             "value": "none",
             "type": "textDecoration"
-          },
-          "min-block-size": {
-            "value": "{utrecht.pointer-target.min-size}",
-            "type": "sizing"
           }
         },
         "divider": {
           "size": {
             "type": "sizing",
-            "value": "{utrecht.size.3xs}"
+            "value": "{utrecht.size.2xs}"
           },
           "color": {
             "value": "{utrecht.document.subtle.color}",
@@ -3094,7 +3090,7 @@
             "value": "{utrecht.icon.functional.size}"
           },
           "margin-inline": {
-            "value": "{utrecht.space.inline.xs}",
+            "value": "{utrecht.space.inline.2xs}",
             "type": "spacing"
           }
         },
@@ -4955,6 +4951,10 @@
           "margin-inline": {
             "value": "{utrecht.space.inline.xs}",
             "type": "spacing"
+          },
+          "color": {
+            "value": "{utrecht.color.neutral.white}",
+            "type": "color"
           }
         },
         "font-family": {
@@ -4962,7 +4962,7 @@
           "type": "fontFamilies"
         },
         "font-size": {
-          "value": "{utrecht.document.font-size}",
+          "value": "{utrecht.typography.scale.xl}",
           "type": "fontSizes"
         },
         "font-weight": {
@@ -4978,19 +4978,19 @@
           "type": "spacing"
         },
         "padding-block-end": {
-          "value": "{utrecht.space.block.xs}",
+          "value": "{utrecht.space.block.md}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{utrecht.space.block.xs}",
+          "value": "{utrecht.space.block.md}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{utrecht.space.inline.lg}",
+          "value": "{utrecht.space.inline.md}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{utrecht.space.inline.lg}",
+          "value": "{utrecht.space.inline.md}",
           "type": "spacing"
         },
         "disabled": {
@@ -5059,11 +5059,11 @@
         },
         "min-block-size": {
           "type": "sizing",
-          "value": "{utrecht.pointer-target.min-size}"
+          "value": "68px"
         },
         "min-inline-size": {
           "type": "sizing",
-          "value": "{utrecht.pointer-target.min-size}"
+          "value": "160px"
         }
       }
     }
