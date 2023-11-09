@@ -1500,6 +1500,12 @@
             "value": "{utrecht.space.block.xs}",
             "type": "spacing"
           }
+        },
+        "content": {
+          "row-gap": {
+            "value": "{utrecht.space.column.xs}",
+            "type": "spacing"
+          }
         }
       }
     }
