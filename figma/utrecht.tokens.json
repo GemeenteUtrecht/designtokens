@@ -5108,6 +5108,7 @@
       }
     }
   },
+  "local/toptask": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -5157,7 +5158,8 @@
       "component/unordered-list",
       "component/icon-only-button",
       "component/sidenav",
-      "component/toptask-link"
+      "component/toptask-link",
+      "local/toptask"
     ]
   }
 }
