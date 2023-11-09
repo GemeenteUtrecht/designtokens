@@ -620,15 +620,15 @@
           "type": "sizing"
         },
         "icon": {
-          "3sx": {
+          "3xs": {
             "value": "1px",
             "type": "sizing"
           },
-          "2sx": {
+          "2xs": {
             "value": "4px",
             "type": "sizing"
           },
-          "sx": {
+          "xs": {
             "value": "8px",
             "type": "sizing"
           },
@@ -1009,7 +1009,7 @@
       "icon": {
         "functional": {
           "size": {
-            "value": "{utrecht.size.xs}",
+            "value": "{utrecht.size.icon.lg}",
             "type": "sizing"
           }
         },
