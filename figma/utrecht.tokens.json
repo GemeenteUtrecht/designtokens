@@ -1855,7 +1855,7 @@
         },
         "border-radius": {
           "type": "borderRadius",
-          "value": "{utrecht.border-radius.md}"
+          "value": "0px"
         },
         "border-width": {
           "type": "borderWidth",
