@@ -5181,7 +5181,7 @@
             "value": "{utrecht.icon.functional.size}"
           },
           "margin-inline": {
-            "value": "{utrecht.space.inline.2xs}",
+            "value": "{utrecht.space.inline.xs}",
             "type": "spacing"
           }
         },
@@ -5204,6 +5204,14 @@
         "font-weight": {
           "value": "{utrecht.document.font-weight}",
           "type": "fontWeights"
+        },
+        "min-block-size": {
+          "value": "{utrecht.pointer-target.min-size}",
+          "type": "sizing"
+        },
+        "min-inline-size": {
+          "value": "{utrecht.pointer-target.min-size}",
+          "type": "sizing"
         }
       }
     }
