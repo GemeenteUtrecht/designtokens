@@ -5117,11 +5117,11 @@
         },
         "color": {
           "type": "color",
-          "value": "{utrecht.interaction.color}"
+          "value": "{utrecht.document.color}"
         },
         "text-decoration-color": {
           "type": "color",
-          "value": "{utrecht.interaction.color}"
+          "value": "{utrecht.document.color}"
         },
         "active": {
           "color": {
