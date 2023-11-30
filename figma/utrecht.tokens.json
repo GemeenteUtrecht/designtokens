@@ -5126,7 +5126,7 @@
         "active": {
           "color": {
             "type": "color",
-            "value": "{utrecht.interaction.active.color}"
+            "value": "{utrecht.document.color}"
           },
           "text-decoration": {
             "value": "underline",
@@ -5154,7 +5154,7 @@
         "hover": {
           "color": {
             "type": "color",
-            "value": "{utrecht.interaction.hover.color}"
+            "value": "{utrecht.document.color}"
           },
           "text-decoration": {
             "value": "underline",
@@ -5168,7 +5168,7 @@
         "visited": {
           "color": {
             "type": "color",
-            "value": "{utrecht.interaction.color}"
+            "value": "{utrecht.document.color}"
           }
         },
         "text-decoration": {
