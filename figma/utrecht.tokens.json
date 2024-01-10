@@ -1095,7 +1095,7 @@
     }
   },
   "component/avatar": {
-    "nl": {
+    "todo": {
       "avatar": {
         "background-color": {
           "value": "{utrecht.interaction.color}",
