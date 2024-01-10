@@ -3174,11 +3174,11 @@
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{utrecht.space.inline.xs}",
+            "value": "{utrecht.space.inline.md}",
             "type": "spacing"
           },
           "padding-inline-end": {
-            "value": "{utrecht.space.inline.2xs}",
+            "value": "{utrecht.space.inline.md}",
             "type": "spacing"
           },
           "padding-block-end": {
@@ -3238,19 +3238,19 @@
         },
         "footer": {
           "padding-block-start": {
-            "value": "{utrecht.space.block.xs}",
+            "value": "{utrecht.space.block.md}",
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{utrecht.space.inline.xs}",
+            "value": "{utrecht.space.inline.md}",
             "type": "spacing"
           },
           "padding-inline-end": {
-            "value": "{utrecht.space.inline.xs}",
+            "value": "{utrecht.space.inline.md}",
             "type": "spacing"
           },
           "padding-block-end": {
-            "value": "{utrecht.space.block.xs}",
+            "value": "{utrecht.space.block.md}",
             "type": "spacing"
           },
           "background-color": {
