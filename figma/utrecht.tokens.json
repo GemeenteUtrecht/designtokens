@@ -4960,6 +4960,34 @@
       }
     }
   },
+  "component/toolbar-button": {
+    "todo": {
+      "toolbar-button": {
+        "icon": {
+          "margin-inline": {
+            "value": "{utrecht.space.text.md}",
+            "type": "spacing"
+          }
+        },
+        "padding-block-end": {
+          "value": "{utrecht.space.block.xs}",
+          "type": "spacing"
+        },
+        "padding-block-start": {
+          "value": "{utrecht.space.block.xs}",
+          "type": "spacing"
+        },
+        "padding-inline-end": {
+          "value": "{utrecht.space.inline.2xs}",
+          "type": "spacing"
+        },
+        "padding-inline-start": {
+          "value": "{utrecht.space.inline.2xs}",
+          "type": "spacing"
+        }
+      }
+    }
+  },
   "component/toptask-link": {
     "utrecht": {
       "toptask-link": {
@@ -5267,6 +5295,7 @@
       "component/unordered-list",
       "component/icon-only-button",
       "component/sidenav",
+      "component/toolbar-button",
       "component/toptask-link",
       "local/header-link",
       "local/toptask",
