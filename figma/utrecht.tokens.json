@@ -2682,7 +2682,7 @@
         },
         "border-width": {
           "type": "borderWidth",
-          "value": "{utrecht.border-width.lg}"
+          "value": "{utrecht.border-width.md}"
         },
         "content": {
           "padding-block-end": {
@@ -5396,6 +5396,40 @@
       }
     }
   },
+  "component/backdrop": {
+    "todo": {
+      "backdrop": {
+        "background-color": {
+          "value": "{utrecht.document.color}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{utrecht.document.inverse.color}",
+          "type": "color"
+        },
+        "opacity": {
+          "value": "0.2",
+          "type": "opacity"
+        },
+        "reduced-transparency": {
+          "opacity": {
+            "value": "0.98",
+            "type": "opacity"
+          }
+        },
+        "z-index": {
+          "value": "auto",
+          "type": "other"
+        },
+        "fade-in": {
+          "animation-duration": {
+            "value": "0.4s",
+            "type": "other"
+          }
+        }
+      }
+    }
+  },
   "local/header-link": {
     "utrecht": {
       "header-link": {
@@ -5559,6 +5593,7 @@
       "component/sidenav",
       "component/toolbar-button",
       "component/toptask-link",
+      "component/backdrop",
       "local/header-link",
       "local/toptask",
       "local/pre-footer-nav"
