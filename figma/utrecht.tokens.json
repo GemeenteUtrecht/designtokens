@@ -3157,6 +3157,136 @@
       }
     }
   },
+  "component/modal-dialog": {
+    "todo": {
+      "modal-dialog": {
+        "border-radius": {
+          "value": "{utrecht.border-radius.none}",
+          "type": "borderRadius"
+        },
+        "box-shadow": {
+          "value": "{utrecht.box-shadow.lg}",
+          "type": "boxShadow"
+        },
+        "header": {
+          "padding-block-start": {
+            "value": "{utrecht.space.block.xs}",
+            "type": "spacing"
+          },
+          "padding-inline-start": {
+            "value": "{utrecht.space.inline.xs}",
+            "type": "spacing"
+          },
+          "padding-inline-end": {
+            "value": "{utrecht.space.inline.2xs}",
+            "type": "spacing"
+          },
+          "padding-block-end": {
+            "value": "{utrecht.space.block.xs}",
+            "type": "spacing"
+          },
+          "background-color": {
+            "value": "transparent",
+            "type": "color"
+          },
+          "label": {
+            "color": {
+              "value": "{utrecht.document.color}",
+              "type": "color"
+            },
+            "font-familiy": {
+              "value": "{utrecht.document.font-family}",
+              "type": "fontFamilies"
+            },
+            "font-weight": {
+              "value": "{utrecht.document.strong.font-weight}",
+              "type": "fontWeights"
+            },
+            "font-size": {
+              "value": "{utrecht.document.font-size}",
+              "type": "fontSizes"
+            },
+            "line-height": {
+              "value": "{utrecht.document.line-height}",
+              "type": "lineHeights"
+            }
+          },
+          "border-color": {
+            "value": "{utrecht.line.border-color}",
+            "type": "color"
+          },
+          "column-gap": {
+            "value": "{utrecht.space.column.md}",
+            "type": "spacing"
+          },
+          "border-width": {
+            "value": "{utrecht.border-width.lg}",
+            "type": "borderWidth"
+          }
+        },
+        "border-color": {
+          "value": "transparent",
+          "type": "color"
+        },
+        "background-color": {
+          "value": "{utrecht.document.background-color}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{utrecht.document.color}",
+          "type": "color"
+        },
+        "footer": {
+          "padding-block-start": {
+            "value": "{utrecht.space.block.xs}",
+            "type": "spacing"
+          },
+          "padding-inline-start": {
+            "value": "{utrecht.space.inline.xs}",
+            "type": "spacing"
+          },
+          "padding-inline-end": {
+            "value": "{utrecht.space.inline.xs}",
+            "type": "spacing"
+          },
+          "padding-block-end": {
+            "value": "{utrecht.space.block.xs}",
+            "type": "spacing"
+          },
+          "background-color": {
+            "value": "transparent",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "transparent",
+            "type": "color"
+          },
+          "border-width": {
+            "value": "{utrecht.border-width.lg}",
+            "type": "borderWidth"
+          }
+        },
+        "content": {
+          "padding-block-start": {
+            "value": "{utrecht.space.block.md}",
+            "type": "spacing"
+          },
+          "padding-block-end": {
+            "value": "{utrecht.space.block.md}",
+            "type": "spacing"
+          },
+          "padding-inline": {
+            "value": "{utrecht.space.inline.md}",
+            "type": "spacing"
+          }
+        },
+        "border-width": {
+          "value": "{voorbeeld.border-width.sm}",
+          "type": "borderWidth"
+        }
+      }
+    }
+  },
   "component/ordered-list": {
     "utrecht": {
       "ordered-list": {
@@ -5277,6 +5407,7 @@
       "component/heading-5",
       "component/heading-6",
       "component/link",
+      "component/modal-dialog",
       "component/ordered-list",
       "component/pagination",
       "component/spotlight-section",
