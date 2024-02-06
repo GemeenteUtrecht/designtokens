@@ -1673,7 +1673,7 @@
           "min-block-size": {
             "value": "{utrecht.pointer-target.min-size}",
             "type": "sizing",
-            "description": "Klick space voor breadcrumb link"
+            "description": "Klick space for breadcrumb link"
           }
         },
         "divider": {
