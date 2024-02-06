@@ -1669,6 +1669,11 @@
           "text-decoration": {
             "value": "none",
             "type": "textDecoration"
+          },
+          "min-block-size": {
+            "value": "{utrecht.pointer-target.min-size}",
+            "type": "sizing",
+            "description": "Klick space voor breadcrumb link"
           }
         },
         "divider": {
