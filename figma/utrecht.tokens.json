@@ -866,7 +866,7 @@
           "type": "color"
         },
         "border-color": {
-          "value": "{utrecht.color.grey.40}",
+          "value": "{utrecht.color.grey.30}",
           "type": "color"
         },
         "border-width": {
@@ -878,7 +878,7 @@
           "type": "borderWidth"
         },
         "color": {
-          "value": "{utrecht.color.grey.40}",
+          "value": "{utrecht.color.grey.10}",
           "type": "color"
         },
         "active": {
@@ -899,7 +899,7 @@
             "type": "borderWidth"
           },
           "color": {
-            "value": "{utrecht.color.grey.40}",
+            "value": "{utrecht.color.grey.10}",
             "type": "color"
           }
         },
@@ -913,11 +913,11 @@
             "type": "color"
           },
           "border-color": {
-            "value": "{utrecht.color.grey.40}",
+            "value": "{utrecht.color.grey.30}",
             "type": "color"
           },
           "color": {
-            "value": "{utrecht.color.grey.40}",
+            "value": "{utrecht.color.grey.20}",
             "type": "color"
           }
         },
@@ -949,7 +949,7 @@
             "type": "color"
           },
           "border-color": {
-            "value": "{utrecht.color.grey.40}",
+            "value": "{utrecht.color.grey.10}",
             "type": "color"
           },
           "border-width": {
@@ -981,7 +981,7 @@
         },
         "read-only": {
           "background-color": {
-            "value": "{utrecht.color.grey.80}",
+            "value": "{utrecht.color.grey.90}",
             "type": "color"
           },
           "border-color": {
@@ -989,7 +989,7 @@
             "type": "color"
           },
           "color": {
-            "value": "{utrecht.color.grey.40}",
+            "value": "{utrecht.color.grey.20}",
             "type": "color"
           }
         },
@@ -3265,7 +3265,7 @@
             "value": "{utrecht.icon.functional.size}"
           },
           "margin-inline": {
-            "value": "{utrecht.space.inline.2xs}",
+            "value": "{utrecht.space.inline.xs}",
             "type": "spacing"
           }
         },
