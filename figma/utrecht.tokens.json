@@ -1964,7 +1964,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{utrecht.interaction.active.color}"
+              "value": "{utrecht.focus.color}"
             }
           }
         },
