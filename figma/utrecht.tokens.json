@@ -1748,15 +1748,15 @@
           "focus": {
             "background-color": {
               "type": "color",
-              "value": "{utrecht.focus.background-color}"
+              "value": "{utrecht.interaction.hover.color}"
             },
             "border-color": {
-              "value": "transparent",
+              "value": "{utrecht.interaction.hover.color}",
               "type": "color"
             },
             "color": {
               "type": "color",
-              "value": "{utrecht.focus.color}"
+              "value": "{utrecht.color.neutral.white}"
             }
           },
           "font-weight": {
