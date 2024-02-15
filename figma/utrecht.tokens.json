@@ -1091,6 +1091,32 @@
             "type": "color"
           }
         }
+      },
+      "relation": {
+        "kind": {
+          "value": "0px",
+          "type": "dimension"
+        },
+        "besties": {
+          "value": "4px",
+          "type": "dimension"
+        },
+        "vrienden": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "bekenden": {
+          "value": "8px",
+          "type": "dimension"
+        },
+        "onbekenden": {
+          "value": "16px",
+          "type": "dimension"
+        },
+        "onbemind": {
+          "value": "32px",
+          "type": "dimension"
+        }
       }
     }
   },
@@ -2475,11 +2501,11 @@
             }
           },
           "padding-block-end": {
-            "value": "{utrecht.space.block.2xs}",
+            "value": "{utrecht.space.block.sm}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.xs}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "padding-inline-end": {
@@ -2515,11 +2541,11 @@
             }
           },
           "padding-block-end": {
-            "value": "{utrecht.space.block.xs}",
+            "value": "{utrecht.space.block.2xs}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.2xs}",
+            "value": "{utrecht.space.block.sm}",
             "type": "spacing"
           },
           "padding-inline-end": {
