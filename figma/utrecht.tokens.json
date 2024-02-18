@@ -1092,30 +1092,32 @@
           }
         }
       },
-      "relation": {
-        "kind": {
-          "value": "1px",
-          "type": "dimension"
-        },
-        "besties": {
-          "value": "4px",
-          "type": "dimension"
-        },
-        "vrienden": {
-          "value": "8px",
-          "type": "dimension"
-        },
-        "kennissen": {
-          "value": "16px",
-          "type": "dimension"
-        },
-        "onbekenden": {
-          "value": "32px",
-          "type": "dimension"
-        },
-        "onbemind": {
-          "value": "64px",
-          "type": "dimension"
+      "space": {
+        "relation": {
+          "kind": {
+            "value": "0px",
+            "type": "dimension"
+          },
+          "besties": {
+            "value": "4px",
+            "type": "dimension"
+          },
+          "vrienden": {
+            "value": "8px",
+            "type": "dimension"
+          },
+          "kennissen": {
+            "value": "16px",
+            "type": "dimension"
+          },
+          "onbekenden": {
+            "value": "32px",
+            "type": "dimension"
+          },
+          "onbemind": {
+            "value": "64px",
+            "type": "dimension"
+          }
         }
       }
     }
