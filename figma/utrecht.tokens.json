@@ -1094,7 +1094,7 @@
       },
       "relation": {
         "kind": {
-          "value": "0px",
+          "value": "1px",
           "type": "dimension"
         },
         "besties": {
@@ -1105,16 +1105,16 @@
           "value": "8px",
           "type": "dimension"
         },
-        "bekenden": {
-          "value": "8px",
-          "type": "dimension"
-        },
-        "onbekenden": {
+        "kennissen": {
           "value": "16px",
           "type": "dimension"
         },
-        "onbemind": {
+        "onbekenden": {
           "value": "32px",
+          "type": "dimension"
+        },
+        "onbemind": {
+          "value": "64px",
           "type": "dimension"
         }
       }
