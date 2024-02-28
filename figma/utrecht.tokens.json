@@ -1103,11 +1103,11 @@
             "type": "dimension"
           },
           "vrienden": {
-            "value": "8px",
+            "value": "16px",
             "type": "dimension"
           },
           "kennissen": {
-            "value": "16px",
+            "value": "24px",
             "type": "dimension"
           },
           "onbekenden": {
