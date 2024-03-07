@@ -826,22 +826,12 @@
       },
       "focus": {
         "background-color": {
-          "value": "{utrecht.color.yellow.80}",
+          "value": "transperant",
           "type": "color"
         },
         "color": {
           "value": "{utrecht.color.neutral.black}",
           "type": "color"
-        },
-        "outline-color": {
-          "value": "{utrecht.color.neutral.white}",
-          "type": "color"
-        },
-        "inverse": {
-          "outline-color": {
-            "value": "{utrecht.color.neutral.black}",
-            "type": "color"
-          }
         },
         "outline-offset": {
           "value": "0",
@@ -1099,24 +1089,44 @@
             "type": "dimension"
           },
           "besties": {
-            "value": "8px",
+            "value": "utrecht.space.row.xs",
             "type": "dimension"
           },
           "vrienden": {
-            "value": "16px",
+            "value": "utrecht.space.row.md",
             "type": "dimension"
           },
           "kennissen": {
-            "value": "24px",
+            "value": "utrecht.space.row.xl",
             "type": "dimension"
           },
           "onbekenden": {
-            "value": "32px",
+            "value": "utrecht.space.row.3xl",
             "type": "dimension"
           },
           "onbemind": {
-            "value": "64px",
+            "value": "utrecht.space.row.5xl",
             "type": "dimension"
+          }
+        }
+      },
+      "focus-visible": {
+        "background-color": {
+          "value": "{utrecht.color.yellow.80}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{utrecht.color.neutral.black}",
+          "type": "color"
+        },
+        "outline-color": {
+          "value": "{utrecht.color.neutral.white}",
+          "type": "color"
+        },
+        "inverse": {
+          "outline-color": {
+            "value": "{utrecht.color.neutral.black}",
+            "type": "color"
           }
         }
       }
