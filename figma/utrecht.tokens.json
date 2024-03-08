@@ -2202,6 +2202,10 @@
           "color": {
             "value": "{utrecht.focus-visible.color}",
             "type": "color"
+          },
+          "scale": {
+            "value": "{utrecht.interaction.scale}",
+            "type": "other"
           }
         }
       }
