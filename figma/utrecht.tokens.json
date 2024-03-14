@@ -870,6 +870,10 @@
             "value": "{utrecht.color.neutral.black}",
             "type": "color"
           }
+        },
+        "border-width": {
+          "value": "{utrecht.border-width.md}",
+          "type": "borderWidth"
         }
       },
       "form-control": {
@@ -4150,7 +4154,7 @@
           "type": "fontFamilies"
         },
         "font-size": {
-          "value": "{utrecht.typography.scale.lg}",
+          "value": "{utrecht.typography.scale.xl}",
           "type": "fontSizes"
         },
         "font-weight": {
