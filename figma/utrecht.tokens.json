@@ -3143,7 +3143,7 @@
     }
   },
   "component/form-field-option-label": {
-    "utrecht": {
+    "todo": {
       "form-field-option-label": {
         "color": {
           "value": "{utrecht.form-control.color}",
@@ -3175,7 +3175,7 @@
     }
   },
   "component/form-field-radio-option": {
-    "utrecht": {
+    "todo": {
       "form-field-radio-option": {
         "column-gap": {
           "value": "{utrecht.space.column.xs}",
@@ -3629,7 +3629,7 @@
     }
   },
   "component/pagination": {
-    "utrecht": {
+    "todo": {
       "pagination": {
         "relative-link": {
           "border-width": {
@@ -3923,6 +3923,16 @@
           "font-weight": {
             "value": "{utrecht.document.font-weight}",
             "type": "fontWeights"
+          }
+        },
+        "description": {
+          "font-weight": {
+            "value": "{utrecht.document.font-weight}",
+            "type": "fontWeights"
+          },
+          "color": {
+            "value": "{utrecht.document.color}",
+            "type": "color"
           }
         }
       }
@@ -4376,7 +4386,7 @@
     }
   },
   "component/radio-group": {
-    "utrecht": {
+    "todo": {
       "radio-group": {
         "padding-block-end": {
           "value": "{utrecht.space.block.xs}",
@@ -5276,7 +5286,7 @@
     }
   },
   "component/icon-only-button": {
-    "utrecht": {
+    "todo": {
       "icon-only-button": {
         "padding-block-end": {
           "value": "{utrecht.space.block.2xs}",
