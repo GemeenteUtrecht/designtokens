@@ -3048,6 +3048,16 @@
       }
     }
   },
+  "component/form-field-checkbox-option": {
+    "todo": {
+      "form-field-checkbox-option": {
+        "column-gap": {
+          "value": "{utrecht.space.column.xs}",
+          "type": "spacing"
+        }
+      }
+    }
+  },
   "component/form-field-description": {
     "utrecht": {
       "form-field-description": {
@@ -3070,16 +3080,6 @@
         "line-height": {
           "value": "{utrecht.document.line-height}",
           "type": "lineHeights"
-        }
-      }
-    }
-  },
-  "component/form-field-checkbox-option": {
-    "utrecht": {
-      "form-field-checkbox-option": {
-        "column-gap": {
-          "value": "{utrecht.space.column.xs}",
-          "type": "spacing"
         }
       }
     }
@@ -5734,8 +5734,8 @@
       "component/drawer",
       "component/email-input",
       "component/form-field",
-      "component/form-field-description",
       "component/form-field-checkbox-option",
+      "component/form-field-description",
       "component/form-field-error-message",
       "component/form-field-label",
       "component/form-field-option-label",
