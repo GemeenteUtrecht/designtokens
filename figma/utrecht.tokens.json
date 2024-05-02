@@ -154,6 +154,11 @@
             "type": "color",
             "description": "basis donkerblauw (OS focus)"
           },
+          "30": {
+            "value": "hsl(211, 60%, 30%)",
+            "type": "color",
+            "description": "interactio active color"
+          },
           "35": {
             "value": "hsl(211, 60%, 35%)",
             "description": "basis link en knoppen CTA donkerblauw",
@@ -808,7 +813,7 @@
         },
         "active": {
           "color": {
-            "value": "{utrecht.color.blue.40}",
+            "value": "{utrecht.color.blue.30}",
             "type": "color"
           }
         },
