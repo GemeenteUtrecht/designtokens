@@ -1286,7 +1286,7 @@
         },
         "body": {
           "border-color": {
-            "value": "transparent",
+            "value": "{utrecht.color.grey.90}",
             "type": "color"
           },
           "border-width": {
@@ -1334,11 +1334,11 @@
             }
           },
           "padding-block-end": {
-            "value": "{utrecht.space.block.xs}",
+            "value": "{utrecht.space.block.md}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.xs}",
+            "value": "{utrecht.space.block.md}",
             "type": "spacing"
           },
           "padding-inline-end": {
@@ -1352,24 +1352,24 @@
           "hover": {
             "background-color": {
               "type": "color",
-              "value": "{utrecht.color.grey.90}"
+              "value": "transparent"
             },
             "border-color": {
-              "value": "transparent",
+              "value": "{utrecht.color.grey.90}",
               "type": "color"
             },
             "color": {
               "type": "color",
-              "value": "{utrecht.document.color}"
+              "value": "{utrecht.link.hover.color}"
             }
           },
           "expanded": {
             "background-color": {
-              "value": "{utrecht.color.grey.90}",
+              "value": "transparent",
               "type": "color"
             },
             "border-color": {
-              "value": "transparent",
+              "value": "{utrecht.color.grey.90}",
               "type": "color"
             },
             "color": {
@@ -1379,23 +1379,23 @@
           },
           "background-color": {
             "type": "color",
-            "value": "{utrecht.color.grey.90}"
+            "value": "transparent"
           },
           "border-color": {
-            "value": "transparent",
+            "value": "{utrecht.color.grey.90}",
             "type": "color"
           },
           "color": {
             "type": "color",
-            "value": "{utrecht.document.color}"
+            "value": "{utrecht.interaction.color}"
           },
           "focus": {
             "background-color": {
               "type": "color",
-              "value": "{utrecht.focus.background-color}"
+              "value": "transparent"
             },
             "border-color": {
-              "value": "transparent",
+              "value": "{utrecht.color.grey.90}",
               "type": "color"
             },
             "color": {
@@ -1406,10 +1406,10 @@
           "active": {
             "background-color": {
               "type": "color",
-              "value": "{utrecht.color.grey.90}"
+              "value": "transparent"
             },
             "border-color": {
-              "value": "transparent",
+              "value": "{utrecht.color.grey.90}",
               "type": "color"
             },
             "color": {
@@ -1432,6 +1432,20 @@
           "min-block-size": {
             "value": "{utrecht.pointer-target.min-size}",
             "type": "sizing"
+          },
+          "focus-visible": {
+            "background-color": {
+              "type": "color",
+              "value": "{utrecht.focus-visible.background-color}"
+            },
+            "border-color": {
+              "value": "{utrecht.color.grey.90}",
+              "type": "color"
+            },
+            "color": {
+              "type": "color",
+              "value": "{utrecht.focus.color}"
+            }
           }
         }
       }
