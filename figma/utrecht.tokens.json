@@ -808,7 +808,7 @@
       },
       "interaction": {
         "color": {
-          "value": "{utrecht.color.blue.40}",
+          "value": "{utrecht.color.blue.35}",
           "type": "color"
         },
         "active": {
@@ -819,7 +819,7 @@
         },
         "hover": {
           "color": {
-            "value": "{utrecht.color.blue.35}",
+            "value": "{utrecht.color.blue.40}",
             "type": "color"
           }
         },
@@ -1298,7 +1298,7 @@
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{utrecht.space.block.md}",
+            "value": "{utrecht.space.block.3xs}",
             "type": "spacing"
           },
           "padding-inline-end": {
@@ -1306,7 +1306,7 @@
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{utrecht.space.inline.sm}",
+            "value": "{utrecht.space.inline.3xl}",
             "type": "spacing"
           }
         },
@@ -1342,11 +1342,11 @@
             "type": "spacing"
           },
           "padding-inline-end": {
-            "value": "{utrecht.space.inline.md}",
+            "value": "{utrecht.space.inline.xs}",
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{utrecht.space.inline.md}",
+            "value": "{utrecht.space.inline.xs}",
             "type": "spacing"
           },
           "hover": {
