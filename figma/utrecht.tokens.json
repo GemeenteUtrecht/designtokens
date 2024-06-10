@@ -1901,6 +1901,14 @@
               "type": "color",
               "value": "{utrecht.focus-visible.color}"
             }
+          },
+          "font-size": {
+            "value": "{utrecht.document.font-size}",
+            "type": "fontSizes"
+          },
+          "line-height": {
+            "value": "{utrecht.document.line-height}",
+            "type": "lineHeights"
           }
         },
         "secondary-action": {
@@ -1989,6 +1997,14 @@
               "type": "color",
               "value": "{utrecht.focus-visible.color}"
             }
+          },
+          "font-size": {
+            "value": "{utrecht.document.font-size}",
+            "type": "fontSizes"
+          },
+          "line-height": {
+            "value": "{utrecht.document.line-height}",
+            "type": "lineHeights"
           }
         },
         "background-color": {
@@ -2029,11 +2045,11 @@
           "value": "{utrecht.document.font-size}",
           "type": "fontSizes"
         },
-        "font-weight": {
-          "value": "{utrecht.document.strong.font-weight}",
-          "type": "fontWeights"
-        },
         "subtle": {
+          "font-size": {
+            "value": "{utrecht.document.font-size}",
+            "type": "fontSizes"
+          },
           "font-weight": {
             "value": "{utrecht.document.strong.font-weight}",
             "type": "fontWeights"
@@ -2119,7 +2135,15 @@
               "type": "color",
               "value": "{utrecht.focus-visible.color}"
             }
+          },
+          "line-height": {
+            "value": "{utrecht.document.line-height}",
+            "type": "lineHeights"
           }
+        },
+        "font-weight": {
+          "value": "{utrecht.document.strong.font-weight}",
+          "type": "fontWeights"
         },
         "line-height": {
           "value": "{utrecht.document.line-height}",
