@@ -1352,7 +1352,7 @@
           "hover": {
             "background-color": {
               "type": "color",
-              "value": "transparent"
+              "value": "{utrecht.color.grey.95}"
             },
             "border-color": {
               "value": "{utrecht.color.grey.90}",
@@ -4440,7 +4440,7 @@
           "type": "spacing"
         },
         "row-gap": {
-          "value": "{utrecht.space.row.xs}",
+          "value": "{utrecht.space.row.sm}",
           "type": "spacing"
         }
       }
