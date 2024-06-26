@@ -1621,6 +1621,40 @@
       }
     }
   },
+  "component/backdrop": {
+    "utrecht": {
+      "backdrop": {
+        "background-color": {
+          "value": "{utrecht.document.color}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{utrecht.document.inverse.color}",
+          "type": "color"
+        },
+        "opacity": {
+          "value": "0.55",
+          "type": "opacity"
+        },
+        "reduced-transparency": {
+          "opacity": {
+            "value": "0.98",
+            "type": "opacity"
+          }
+        },
+        "z-index": {
+          "value": "auto",
+          "type": "other"
+        },
+        "fade-in": {
+          "animation-duration": {
+            "value": "0.4s",
+            "type": "other"
+          }
+        }
+      }
+    }
+  },
   "component/blockquote": {
     "utrecht": {
       "blockquote": {
@@ -5620,40 +5654,6 @@
       }
     }
   },
-  "component/backdrop": {
-    "todo": {
-      "backdrop": {
-        "background-color": {
-          "value": "{utrecht.document.color}",
-          "type": "color"
-        },
-        "color": {
-          "value": "{utrecht.document.inverse.color}",
-          "type": "color"
-        },
-        "opacity": {
-          "value": "0.2",
-          "type": "opacity"
-        },
-        "reduced-transparency": {
-          "opacity": {
-            "value": "0.98",
-            "type": "opacity"
-          }
-        },
-        "z-index": {
-          "value": "auto",
-          "type": "other"
-        },
-        "fade-in": {
-          "animation-duration": {
-            "value": "0.4s",
-            "type": "other"
-          }
-        }
-      }
-    }
-  },
   "local/header-link": {
     "utrecht": {
       "header-link": {
@@ -5772,6 +5772,7 @@
       "component/avatar",
       "component/accordion",
       "component/alert",
+      "component/backdrop",
       "component/blockquote",
       "component/breadcrumb",
       "component/button",
@@ -5817,7 +5818,6 @@
       "component/icon-only-button",
       "component/toolbar-button",
       "component/toptask-link",
-      "component/backdrop",
       "local/header-link",
       "local/toptask",
       "local/pre-footer-nav"
